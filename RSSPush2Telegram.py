@@ -51,27 +51,41 @@ def should_filter(title, feed_config, global_exclude):
     #return False
 
 def send_tg_message(entry, feed_config):
-    category = feed_config.get("category", "未分类")
+# 基础信息提取与安全转义（防止标题中含有 < > & 导致发送失败）
+    category = feed_config.get("category", "TECH").upper()
     tags = " ".join(feed_config.get("tags", []))
+    title = html.escape(entry.title)
     
-    # 美化消息格式
+    # 构造精美排版
+    # 🚀 头部：类别
+    # ━━━━ 分隔线：视觉分割
+    # 📌 标题：加粗显示
+    # 🔗 链接：隐藏长网址，文字超链接
     text = (
-        f"<b>【{category}】</b>\n"
-        f"{entry.title}\n\n"
-        f"{tags}\n"
-        f"{entry.link}"
+        f"🚀 <b>{category}</b>\n"
+        f"━━━━━━━━━━━━━━━━━━\n"
+        f"📌 <b>{title}</b>\n\n"
+        f"🔗 <a href='{entry.link}'>查看详情</a>\n\n"
+        f"🏷️ {tags}"
     )
     
     api_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
+    payload = {
+        "chat_id": CHAT_ID, 
+        "text": text, 
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False  # 设为 True 可以关掉大图预览
+    }
     
     try:
         response = requests.post(api_url, data=payload, timeout=20)
         if response.status_code == 429:
-            time.sleep(10)
+            retry_after = response.json().get('parameters', {}).get('retry_after', 10)
+            time.sleep(retry_after)
             return requests.post(api_url, data=payload).status_code
         return response.status_code
-    except:
+    except Exception as e:
+        print(f"发送失败: {e}")
         return None
 
 def main():
