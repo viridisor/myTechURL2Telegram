@@ -1,20 +1,24 @@
-name: RSS_Push
+name: myTecRSSPush
 on:
   schedule:
-    - cron: '*/30 * * * *' # 每30分钟自动运行
-  workflow_dispatch:      # 【新增】手动运行开关，开启后你才能在 Actions 页面看到运行按钮
-  push:                   # 【可选】当你修改代码并提交时，也会立即触发一次
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
 
 jobs:
-  bot:
+  rss-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Push RSS
-        uses: pnd280/rss-push-action@v1.2
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: RSS to Telegram
+        uses: j_f_v/rss-action@master  # 使用这个稳定的 Action
         with:
-          tg-token: ${{ secrets.TELEGRAM_TOKEN }}
-          tg-chat-id: ${{ secrets.TELEGRAM_CHAT_ID }}
-          feed-list: |
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          chat_id: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # 你的 RSS 链接列表
+          feed_list: |
             https://evtolinsights.com/feed/
             https://www.urbanairmobilitynews.com/feed/
             https://verticalmag.com/category/evtol/feed/
