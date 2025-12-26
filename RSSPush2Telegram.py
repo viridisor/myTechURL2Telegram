@@ -4,94 +4,109 @@ import os
 import time
 import json
 
-# 配置参数
+# 配置
 TOKEN = os.environ.get('TG_TOKEN')
 CHAT_ID = os.environ.get('TG_CHAT_ID')
 DB_FILE = "sent_links.txt"
 CONFIG_FILE = "feeds.json"
+MAX_HISTORY = 1000  # 数据库文件保留的最大条数
 
 def load_config():
-    """从配置文件加载 RSS 列表"""
     try:
         with open(CONFIG_FILE, "r", encoding="utf-8") as f:
-            return json.load(f).get("feeds", [])
+            return json.load(f)
     except Exception as e:
-        print(f"读取配置文件失败: {e}")
-        return []
+        print(f"读取配置失败: {e}")
+        return {"feeds": []}
 
 def load_sent_links():
-    """读取已发送过的链接记录"""
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r", encoding="utf-8") as f:
-            return set(line.strip() for line in f if line.strip())
-    return set()
+            return [line.strip() for line in f if line.strip()]
+    return []
 
-def save_sent_link(link):
-    """将新发送的链接追加到记录文件"""
-    with open(DB_FILE, "a", encoding="utf-8") as f:
-        f.write(link + "\n")
+def save_sent_links(links):
+    # 只保留最近的 MAX_HISTORY 条记录
+    to_save = links[-MAX_HISTORY:]
+    with open(DB_FILE, "w", encoding="utf-8") as f:
+        for link in to_save:
+            f.write(link + "\n")
 
-def send_tg_message(title, link):
-    """发送消息到 Telegram，包含频率限制处理"""
+def should_filter(title, feed_config, global_exclude):
+    title = title.lower()
+    # 1. 全局排除词过滤
+    if any(word.lower() in title for word in global_exclude):
+        return True
+    
+    # 2. 局部排除词过滤
+    exclude = feed_config.get("exclude_keywords", [])
+    if any(word.lower() in title for word in exclude):
+        return True
+    
+    # 3. 包含词过滤（如果配置了，则必须包含其中之一）
+    include = feed_config.get("include_keywords", [])
+    if include and not any(word.lower() in title for word in include):
+        return True
+    
+    return False
+
+def send_tg_message(entry, feed_config):
+    category = feed_config.get("category", "未分类")
+    tags = " ".join(feed_config.get("tags", []))
+    
+    # 美化消息格式
+    text = (
+        f"<b>【{category}】</b>\n"
+        f"{entry.title}\n\n"
+        f"{tags}\n"
+        f"{entry.link}"
+    )
+    
     api_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    # 使用 HTML 格式，标题加粗
-    text = f"<b>{title}</b>\n\n{link}"
-    payload = {
-        "chat_id": CHAT_ID,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }
+    payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
     
     try:
         response = requests.post(api_url, data=payload, timeout=20)
-        # 处理 Telegram 的 429 Too Many Requests
         if response.status_code == 429:
-            retry_after = response.json().get('parameters', {}).get('retry_after', 10)
-            print(f"触发频率限制，等待 {retry_after} 秒...")
-            time.sleep(retry_after)
+            time.sleep(10)
             return requests.post(api_url, data=payload).status_code
         return response.status_code
-    except Exception as e:
-        print(f"Telegram 发送失败: {e}")
+    except:
         return None
 
 def main():
-    if not TOKEN or not CHAT_ID:
-        print("错误: 请确保已设置 TG_TOKEN 和 TG_CHAT_ID 环境变量")
-        return
-
-    feeds = load_config()
-    sent_links = load_sent_links()
-    print(f"已加载 {len(sent_links)} 条历史记录")
+    config = load_config()
+    feeds = config.get("feeds", [])
+    global_exclude = config.get("global_filters", [])
     
-    for url in feeds:
-        print(f"正在抓取: {url}")
+    history_links = load_sent_links()
+    history_set = set(history_links)
+    new_links = list(history_links) # 保持顺序用于切片
+
+    for f_conf in feeds:
+        url = f_conf.get("url")
+        print(f"正在扫描: {f_conf.get('category')} - {url}")
         try:
-            # 修改了解析逻辑，防止部分 RSS 格式兼容问题
             feed = feedparser.parse(url)
-            
-            # 倒序处理：从 RSS 中最旧的文章开始推，这样群里显示最新文章在最下面
             for entry in reversed(feed.entries):
                 link = entry.link
-                
-                if link not in sent_links:
-                    print(f"发现新文章: {entry.title}")
-                    status = send_tg_message(entry.title, link)
-                    
+                if link not in history_set:
+                    # 关键字过滤逻辑
+                    if should_filter(entry.title, f_conf, global_exclude):
+                        print(f"已过滤: {entry.title}")
+                        continue
+                        
+                    status = send_tg_message(entry, f_conf)
                     if status == 200:
-                        save_sent_link(link)
-                        sent_links.add(link)
-                        # 严格避开群组每秒消息限制
-                        time.sleep(2.0) 
-                    else:
-                        print(f"发送失败，状态码: {status}")
-                else:
-                    # 已推过的文章直接跳过
-                    continue
-                    
+                        new_links.append(link)
+                        history_set.add(link)
+                        print(f"已推送: {entry.title}")
+                        time.sleep(2)
         except Exception as e:
-            print(f"抓取源 {url} 时出错: {e}")
+            print(f"源错误 {url}: {e}")
+
+    # 保存并更新数据库（包含自动清理逻辑）
+    save_sent_links(new_links)
 
 if __name__ == "__main__":
     main()
