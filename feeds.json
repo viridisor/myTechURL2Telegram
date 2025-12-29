@@ -30,7 +30,7 @@
             "exclude_keywords": []
         },
         {
-            "url": "https://viridisor.zeabur.app/all/rss?url=https://cnevpost.com/feed/&key=qingmu1023916",
+            "url": "https://cnevpost.com/feed/",
             "category": "China EV News",
             "tags": ["#ChinaEV", "#Nio", "#Xpeng"],
             "include_keywords": [],
