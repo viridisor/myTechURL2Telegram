@@ -102,7 +102,8 @@ def main():
         url = f_conf.get("url")
         print(f"正在扫描: {f_conf.get('category')} - {url}")
         try:
-            feed = feedparser.parse(url)
+            resp = requests.get(url, verify=True)
+            feed = feedparser.parse(resp.content)
             for entry in reversed(feed.entries):
                 link = entry.link
                 if link not in history_set:
