@@ -1,6 +1,3 @@
-https://www.urbanairmobilitynews.com/uam-infrastructure/ehang-and-wencheng-county-launch-zhejiang-wing-evtol-centre-in-zhejiang-china/?utm_source=rss&utm_medium=rss&utm_campaign=ehang-and-wencheng-county-launch-zhejiang-wing-evtol-centre-in-zhejiang-china
-https://verticalmag.com/wisk-and-red-define-accessibility-recommendations-for-the-advanced-air-mobility-industry/
-https://insideevs.com/news/778232/tesla-cybercab-production-april-2026/
 https://insideevs.com/news/778630/waymo-hyundai-ioniq-5-robotaxi/
 https://insideevs.com/news/779322/zoox-san-francisco-robotaxi-launch-public-rides/
 https://insideevs.com/news/779371/tesla-robotaxi-permit-arizona/
@@ -998,3 +995,6 @@ https://evtolinsights.com/video-rotunda-hospital-and-manna-air-delivery-simulate
 https://www.urbanairmobilitynews.com/air-taxis/hawaiis-surf-air-mobility-order-25-beta-technologies-alia-ectol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=hawaiis-surf-air-mobility-order-25-beta-technologies-alia-ectol-aircraft
 https://cnevpost.com/2026/03/13/nio-onvo-l60-to-add-lidar-version/
 https://cnevpost.com/2026/03/13/leapmotor-prepares-a05-with-lidar/
+https://insideevs.com/news/789969/hyundai-ioniq-5-robotaxi-uber-las-vegas/
+https://cnevpost.com/2026/03/13/byd-fang-cheng-bao-launches-tai-3-flash-charging-opens-tai-7-ev-pre-orders/
+https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset/
