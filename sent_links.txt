@@ -1,7 +1,3 @@
-https://www.urbanairmobilitynews.com/new-city-projects/us-midwest-states-propose-aam-electric-air-cargo-network-for-aam-integration-pilot-programme/?utm_source=rss&utm_medium=rss&utm_campaign=us-midwest-states-propose-aam-electric-air-cargo-network-for-aam-integration-pilot-programme
-https://www.urbanairmobilitynews.com/air-taxis/indias-sarla-aviation-starts-ground-tests-of-its-sylla-syl-x1-evtol-demonstrator/?utm_source=rss&utm_medium=rss&utm_campaign=indias-sarla-aviation-starts-ground-tests-of-its-sylla-syl-x1-evtol-demonstrator
-https://www.urbanairmobilitynews.com/uam-infrastructure/uks-caa-publishes-a-report-on-managing-thermal-runaway-evtol-battery-fires/?utm_source=rss&utm_medium=rss&utm_campaign=uks-caa-publishes-a-report-on-managing-thermal-runaway-evtol-battery-fires
-https://www.urbanairmobilitynews.com/research/faa-postpones-eipp-proposal-deadline-to-january-2/?utm_source=rss&utm_medium=rss&utm_campaign=faa-postpones-eipp-proposal-deadline-to-january-2
 https://www.urbanairmobilitynews.com/uam-infrastructure/ehang-and-wencheng-county-launch-zhejiang-wing-evtol-centre-in-zhejiang-china/?utm_source=rss&utm_medium=rss&utm_campaign=ehang-and-wencheng-county-launch-zhejiang-wing-evtol-centre-in-zhejiang-china
 https://verticalmag.com/wisk-and-red-define-accessibility-recommendations-for-the-advanced-air-mobility-industry/
 https://insideevs.com/news/778232/tesla-cybercab-production-april-2026/
@@ -998,3 +994,7 @@ https://cnevpost.com/2026/03/13/byd-song-ultra-ev-expected-to-launch-mar-26/
 https://cnevpost.com/2026/03/13/automakers-share-china-nev-market-feb-2026/
 https://evtolinsights.com/joby-aviations-first-faa-conforming-aircraft-takes-flight/?utm_source=rss&utm_medium=rss&utm_campaign=joby-aviations-first-faa-conforming-aircraft-takes-flight
 https://evtolinsights.com/surf-air-mobility-and-beta-technologies-to-launch-first-commercial-passenger-electric-aircraft-service-and-new-mro-center-in-hawaii/?utm_source=rss&utm_medium=rss&utm_campaign=surf-air-mobility-and-beta-technologies-to-launch-first-commercial-passenger-electric-aircraft-service-and-new-mro-center-in-hawaii
+https://evtolinsights.com/video-rotunda-hospital-and-manna-air-delivery-simulate-a-new-model-for-urgent-medical-delivery-in-ireland/?utm_source=rss&utm_medium=rss&utm_campaign=video-rotunda-hospital-and-manna-air-delivery-simulate-a-new-model-for-urgent-medical-delivery-in-ireland
+https://www.urbanairmobilitynews.com/air-taxis/hawaiis-surf-air-mobility-order-25-beta-technologies-alia-ectol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=hawaiis-surf-air-mobility-order-25-beta-technologies-alia-ectol-aircraft
+https://cnevpost.com/2026/03/13/nio-onvo-l60-to-add-lidar-version/
+https://cnevpost.com/2026/03/13/leapmotor-prepares-a05-with-lidar/
