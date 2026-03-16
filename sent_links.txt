@@ -1,7 +1,3 @@
-https://insideevs.com/news/781446/rivian-r2-lidar-autonomy-day/
-https://insideevs.com/news/781537/rivian-autonomy-day-l4-ai/
-https://insideevs.com/news/781575/rivian-lidar-camera-radar-video/
-https://insideevs.com/news/781782/tesla-removes-robotaxi-model-y-safety-driver-testing/
 https://insideevs.com/news/781860/volkswagen-robotaxo-no-steering-wheel/
 https://insideevs.com/news/782523/waymo-robotaxi-san-francisco-outage-power/
 https://insideevs.com/news/782727/why-waymo-robotaxis-froze-san-francisco-outage/
@@ -998,3 +994,7 @@ https://www.urbanairmobilitynews.com/insurance-and-finance/autoflight-launches-i
 https://cnevpost.com/2026/03/16/xiaomi-sets-mar-19-revamped-su7-launch/
 https://cnevpost.com/2026/03/16/china-plans-double-hydrogen-vehicles-100000-2030/
 https://cnevpost.com/2026/03/16/byd-shares-surge-brazil-plant-deals/
+https://evtolinsights.com/evtol-insights-releases-its-powerbook-and-cto-special-report-first-edition-of-2026/?utm_source=rss&utm_medium=rss&utm_campaign=evtol-insights-releases-its-powerbook-and-cto-special-report-first-edition-of-2026
+https://evtolinsights.com/joby-completes-piloted-electric-air-taxi-flight-across-san-francisco-bay-and-around-golden-gate-bridge/?utm_source=rss&utm_medium=rss&utm_campaign=joby-completes-piloted-electric-air-taxi-flight-across-san-francisco-bay-and-around-golden-gate-bridge
+https://cnevpost.com/2026/03/16/arcfox-s3-battery-swap-filing/
+https://cnevpost.com/2026/03/16/leapmotor-posts-1st-annual-profit/
