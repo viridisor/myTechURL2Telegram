@@ -1,7 +1,3 @@
-https://techcrunch.com/2025/12/19/elon-musks-56b-tesla-pay-package-restored-by-delaware-supreme-court/
-https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/
-https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/
-https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/
 https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/
 https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/
 https://techcrunch.com/2025/12/22/uber-and-lyft-to-test-baidu-robotaxis-in-london-next-year-joining-waymo/
@@ -998,3 +994,7 @@ https://cnevpost.com/2026/03/17/deutsche-bank-on-china-auto-amid-crude-spike/
 https://cnevpost.com/2026/03/17/chery-to-detail-solid-state-battery-tech/
 https://www.urbanairmobilitynews.com/air-taxis/joby-starts-us-nationwide-tour-with-a-flight-across-san-francisco-bay/?utm_source=rss&utm_medium=rss&utm_campaign=joby-starts-us-nationwide-tour-with-a-flight-across-san-francisco-bay
 https://www.urbanairmobilitynews.com/air-taxis/aerovironment-acquires-empirical-systems-aerospace/?utm_source=rss&utm_medium=rss&utm_campaign=aerovironment-acquires-empirical-systems-aerospace
+https://evtolinsights.com/uk-open-skies-network-reveals-droneport-plans-at-cornwalls-asone-park-to-support-future-evtol-and-estol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=uk-open-skies-network-reveals-droneport-plans-at-cornwalls-asone-park-to-support-future-evtol-and-estol-aircraft
+https://www.urbanairmobilitynews.com/research/uk-open-skies-network-to-create-uks-first-droneport-aam-test-flight-hub/?utm_source=rss&utm_medium=rss&utm_campaign=uk-open-skies-network-to-create-uks-first-droneport-aam-test-flight-hub
+https://cnevpost.com/2026/03/17/nio-tuhu-sign-pact-integrate-aftermarket-services/
+https://cnevpost.com/2026/03/17/qijing-gets-english-name-aistaland-debuts-gt7/
