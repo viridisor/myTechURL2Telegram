@@ -1,4 +1,3 @@
-https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/
 https://techcrunch.com/2025/12/22/uber-and-lyft-to-test-baidu-robotaxis-in-london-next-year-joining-waymo/
 https://techcrunch.com/2025/12/23/inside-uzbekistans-nationwide-license-plate-surveillance-system/
 https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/
@@ -998,3 +997,4 @@ https://www.urbanairmobilitynews.com/research/uk-open-skies-network-to-create-uk
 https://cnevpost.com/2026/03/17/nio-tuhu-sign-pact-integrate-aftermarket-services/
 https://cnevpost.com/2026/03/17/qijing-gets-english-name-aistaland-debuts-gt7/
 https://cnevpost.com/2026/03/18/xiaomi-to-equip-updated-su7-more-powerful-driver-assist/
+https://cnevpost.com/2026/03/18/tesla-model-y-tops-global-passenger-car-sales-3rd-year-total-hits-4-million/
