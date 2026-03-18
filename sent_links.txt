@@ -1,4 +1,3 @@
-https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/
 https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/
 https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025
 https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems
@@ -998,3 +997,4 @@ https://cnevpost.com/2026/03/18/tesla-model-y-tops-global-passenger-car-sales-3r
 https://cnevpost.com/2026/03/18/geely-2025-profit-beats-estimates/
 https://cnevpost.com/2026/03/18/chery-posts-34-6-profit-jump-in-2025/
 https://cnevpost.com/2026/03/18/li-auto-halts-orders-multiple-models-ahead-refresh/
+https://cnevpost.com/2026/03/18/nio-chip-unit-approaches-leapmotor-geely-for-potential-supply-deals/
