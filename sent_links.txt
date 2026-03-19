@@ -1,5 +1,3 @@
-https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling
-https://cnevpost.com/2025/12/17/china-nev-retail-dec-1-14-476000-units/
 https://cnevpost.com/2025/12/17/li-auto-enters-egypt-kazakhstan-azerbaijan/
 https://cnevpost.com/2025/12/18/catl-signs-10-year-deal-with-voyah/
 https://cnevpost.com/2025/12/18/catl-launches-humanoid-robot-powered-battery-pack-line/
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/03/19/xiaomi-launches-next-gen-su7-further-challenge-t
 https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
 https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/
 https://techcrunch.com/2026/03/19/arc-expands-into-electric-commercial-and-defense-boats-with-50m-raise/
+https://cnevpost.com/2026/03/19/nio-in-house-chip-production-exceeds-550000/
+https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/
