@@ -1,5 +1,3 @@
-https://techcrunch.com/2026/01/05/kodiak-taps-bosch-to-scale-its-self-driving-truck-tech/
-https://www.urbanairmobilitynews.com/air-taxis/leonardos-tiltrotor-prototype-takes-first-flight-in-italy/?utm_source=rss&utm_medium=rss&utm_campaign=leonardos-tiltrotor-prototype-takes-first-flight-in-italy
 https://www.urbanairmobilitynews.com/events/the-seamless-skies-entry-tool-is-open/?utm_source=rss&utm_medium=rss&utm_campaign=the-seamless-skies-entry-tool-is-open
 https://www.urbanairmobilitynews.com/air-taxis/skyfly-unveils-its-vrm-2-evtol-simulator-featuring-veronte-flight-control-system/?utm_source=rss&utm_medium=rss&utm_campaign=skyfly-unveils-its-vrm-2-evtol-simulator-featuring-veronte-flight-control-system
 https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/
@@ -998,3 +996,5 @@ https://www.urbanairmobilitynews.com/utm/japan-revises-aam-roadmap-expects-comme
 https://cnevpost.com/2026/03/27/byd-2025-full-year-results/
 https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospace-selects-isoclima-for-valo-transparencies/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospace-selects-isoclima-for-valo-transparencies
 https://cnevpost.com/2026/03/27/wuling-launches-fifth-gene-hongguang-mini-ev/
+https://cnevpost.com/2026/03/27/nio-onvo-restarts-development-new-sedan-suv/
+https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/
