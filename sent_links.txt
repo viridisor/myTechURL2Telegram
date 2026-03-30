@@ -1,5 +1,3 @@
-https://insideevs.com/news/783339/mercedes-mb-drive-assist-pro-test/
-https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/
 https://cnevpost.com/2026/01/06/nio-1-million-car-production-milestone/
 https://evtolinsights.com/skyfly-unveils-evtol-vr-motion-flight-simulator-using-flight-control-system-on-its-axe-vca/?utm_source=rss&utm_medium=rss&utm_campaign=skyfly-unveils-evtol-vr-motion-flight-simulator-using-flight-control-system-on-its-axe-vca
 https://evtolinsights.com/general-tickets-now-on-sale-for-evtol-insights-north-america-conference-awards-in-ohio/?utm_source=rss&utm_medium=rss&utm_campaign=general-tickets-now-on-sale-for-evtol-insights-north-america-conference-awards-in-ohio
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/03/29/nio-firefly-hits-50000-delivery-mark/
 https://cnevpost.com/2026/03/29/lotus-enters-hybrid-race-with-for-me-suv/
 https://cnevpost.com/2026/03/29/byd-denza-opens-pre-sales-second-gen-d9-mpv/
 https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/
+https://cnevpost.com/2026/03/30/xpeng-sets-apr-2-launch-for-2026-mona-m03/
+https://cnevpost.com/2026/03/30/leapmotor-to-launch-d19-apr-16/
