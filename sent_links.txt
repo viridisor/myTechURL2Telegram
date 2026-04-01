@@ -1,10 +1,3 @@
-https://techcrunch.com/storyline/ces-2026-follow-live-with-news-from-caterpillar-nvidia-plus-robotaxis-robots-and-surprises-from-the-show-floor/
-https://insideevs.com/news/783700/ford-2028-autonomy-ai-ces/
-https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/
-https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/
-https://cnevpost.com/2026/01/08/nio-to-expand-into-australia-nz-this-year/
-https://cnevpost.com/2026/01/08/tesla-shanghai-plant-5-millionth-electric-drive-system/
-https://evtolinsights.com/women-in-aam-podcast-dr-tracy-lamb-on-safety-regulation-and-public-trust-in-advanced-air-mobility/?utm_source=rss&utm_medium=rss&utm_campaign=women-in-aam-podcast-dr-tracy-lamb-on-safety-regulation-and-public-trust-in-advanced-air-mobility
 https://cnevpost.com/2026/01/08/firefly-debuts-in-singapore-nio-1st-right-hand-drive-ev/
 https://cnevpost.com/2026/01/08/xpeng-to-begin-public-road-tests-robotaxis-vla-2-0/
 https://evtolinsights.com/skyports-infrastructure-and-linden-airport-services-corporation-to-transform-miamis-watson-island-heliport-into-aam-facility/?utm_source=rss&utm_medium=rss&utm_campaign=skyports-infrastructure-and-linden-airport-services-corporation-to-transform-miamis-watson-island-heliport-into-aam-facility
@@ -998,3 +991,10 @@ https://cnevpost.com/2026/04/01/jlr-chery-revive-freelander-as-independent-brand
 https://cnevpost.com/2026/04/01/nio-shares-surge-ahead-of-delivery-data-new-model-launches/
 https://cnevpost.com/2026/04/01/byd-deploys-5000th-flash-charging-station/
 https://cnevpost.com/2026/04/01/tesla-celebrates-10th-anniversary-model-3-launch-global-sales-3-million/
+https://evtolinsights.com/skydrive-presents-osaka-expo-2025-achievements-at-osaka-roundtable-with-future-vision-for-100-evtol-aircraft-by-2035/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-presents-osaka-expo-2025-achievements-at-osaka-roundtable-with-future-vision-for-100-evtol-aircraft-by-2035
+https://evtolinsights.com/hysky-partners-with-evtol-insights-to-bring-hydrogen-panel-to-its-north-america-conference-awards-at-naamce/?utm_source=rss&utm_medium=rss&utm_campaign=hysky-partners-with-evtol-insights-to-bring-hydrogen-panel-to-its-north-america-conference-awards-at-naamce
+https://insideevs.com/news/783573/waymo-zeekr-ojai-van/
+https://cnevpost.com/2026/04/01/weride-grab-launch-singapores-first-public-robotaxi-service/
+https://cnevpost.com/2026/04/01/hina-battery-exec-sodium-battery-costs-fall-to-match-lithium/
+https://cnevpost.com/2026/04/01/xpeng-mar-2026-deliveries/
+https://cnevpost.com/2026/04/01/li-auto-mar-2026-deliveries/
