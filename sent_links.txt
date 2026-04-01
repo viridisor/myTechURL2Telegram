@@ -1,5 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/joby-announces-major-new-700000sq-ft-manufacturing-plant-in-dayton-ohio/?utm_source=rss&utm_medium=rss&utm_campaign=joby-announces-major-new-700000sq-ft-manufacturing-plant-in-dayton-ohio
-https://insideevs.com/news/783573/waymo-zeekr-ojai-van/
 https://techcrunch.com/storyline/ces-2026-follow-live-with-news-from-caterpillar-nvidia-plus-robotaxis-robots-and-surprises-from-the-show-floor/
 https://insideevs.com/news/783700/ford-2028-autonomy-ai-ces/
 https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/
@@ -998,3 +996,5 @@ https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo
 https://cnevpost.com/2026/04/01/leapmotor-mar-deliveries-rebound-to-50029/
 https://cnevpost.com/2026/04/01/jlr-chery-revive-freelander-as-independent-brand/
 https://cnevpost.com/2026/04/01/nio-shares-surge-ahead-of-delivery-data-new-model-launches/
+https://cnevpost.com/2026/04/01/byd-deploys-5000th-flash-charging-station/
+https://cnevpost.com/2026/04/01/tesla-celebrates-10th-anniversary-model-3-launch-global-sales-3-million/
