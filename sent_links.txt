@@ -1,5 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/pivotal-announces-it-has-achieved-as9100d-aviation-management-standard/?utm_source=rss&utm_medium=rss&utm_campaign=pivotal-announces-it-has-achieved-as9100d-aviation-management-standard
-https://evtolinsights.com/crafting-a-pr-strategy-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=crafting-a-pr-strategy-for-2026
 https://cnevpost.com/2026/01/15/ronbay-tempers-hype-deal-with-catl/
 https://www.urbanairmobilitynews.com/utm/bluenest-by-globalvia-develops-vertiport-mobile-control-centre-with-battery-charger/?utm_source=rss&utm_medium=rss&utm_campaign=bluenest-by-globalvia-develops-vertiport-mobile-control-centre-with-battery-charger
 https://www.urbanairmobilitynews.com/air-taxis/eve-air-mobility-and-florida-tech-partner-to-bring-aam-into-aviation-and-stem-further-education/?utm_source=rss&utm_medium=rss&utm_campaign=eve-air-mobility-and-florida-tech-partner-to-bring-aam-into-aviation-and-stem-further-education
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/04/09/geely-galaxy-m7-starts-pre-sales/
 https://cnevpost.com/2026/04/09/nio-starts-es9-pre-sales/
 https://techcrunch.com/2026/04/09/mariana-minerals-taps-pronto-to-help-automate-a-copper-mine/
 https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/
+https://cnevpost.com/2026/04/09/tesla-adds-sunwoda-battery-to-global-supply-chain/
+https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/
