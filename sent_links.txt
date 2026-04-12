@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/
 https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/
 https://cnevpost.com/2026/01/19/how-do-nio-xpeng-li-auto-differ-in-ai-approaches/
 https://cnevpost.com/2026/01/19/nio-es9-set-for-unveiling-around-apr-10/
@@ -998,3 +997,4 @@ https://cnevpost.com/2026/04/11/nio-onvo-to-equip-updated-l90-with-shenji-nx9031
 https://cnevpost.com/2026/04/12/nio-william-li-urges-battery-chip-standardization-curb-waste/
 https://cnevpost.com/2026/04/12/li-auto-ceo-slams-unfair-competition-nissan/
 https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/
+https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/
