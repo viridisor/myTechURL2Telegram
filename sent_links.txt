@@ -1,6 +1,3 @@
-https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/
-https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/bristow-secures-electra-el9-ultra-short-hybrid-electric-aircraft-slots-with-deposit-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=bristow-secures-electra-el9-ultra-short-hybrid-electric-aircraft-slots-with-deposit-agreement
-https://www.urbanairmobilitynews.com/air-taxis/archer-announces-25-aircraft-deal-and-preferred-air-taxi-partner-arrangement-with-serbia/?utm_source=rss&utm_medium=rss&utm_campaign=archer-announces-25-aircraft-deal-and-preferred-air-taxi-partner-arrangement-with-serbia
 https://www.urbanairmobilitynews.com/air-taxis/evia-aero-orders-five-hydrogen-electric-powered-bonanza-a36-he-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=evia-aero-orders-five-hydrogen-electric-powered-bonanza-a36-he-aircraft
 https://www.urbanairmobilitynews.com/air-taxis/horizon-aircraft-publishes-technical-updates-to-its-cavorite-x7-programme/?utm_source=rss&utm_medium=rss&utm_campaign=horizon-aircraft-publishes-technical-updates-to-its-cavorite-x7-programme
 https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospace-launches-new-york-valo-tour-outlines-possible-network-of-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospace-launches-new-york-valo-tour-outlines-possible-network-of-destinations
@@ -998,3 +995,6 @@ https://evtolinsights.com/two-weeks-to-ohio-pivotals-blackfly-to-take-to-the-ski
 https://cnevpost.com/2026/04/15/china-nev-retail-first-12-days-apr/
 https://cnevpost.com/2026/04/15/former-xpeng-autonomous-driving-chief-to-join-engineai/
 https://cnevpost.com/2026/04/15/stellantis-weighs-dongfeng-partnership-europe-china-production/
+https://cnevpost.com/2026/04/15/catl-q1-profit-climb-revenue-jumps/
+https://cnevpost.com/2026/04/15/xpeng-starts-pre-sales-new-gx-suv/
+https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/
