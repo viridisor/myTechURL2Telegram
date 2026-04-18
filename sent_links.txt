@@ -1,5 +1,3 @@
-https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/
-https://cnevpost.com/2026/01/24/byd-aims-for-1-3-million-overseas-sales-2026/
 https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/
 https://www.urbanairmobilitynews.com/vertiports/jeju-island-will-proceed-with-vertiport-design-and-implementation-work-this-year/?utm_source=rss&utm_medium=rss&utm_campaign=jeju-island-will-proceed-with-vertiport-design-and-implementation-work-this-year
 https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/
@@ -998,3 +996,5 @@ https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-d
 https://insideevs.com/news/785225/tesla-removes-autopilot-base-models/
 https://www.urbanairmobilitynews.com/logistics/autoflight-completes-autonomous-evtol-cargo-flight-across-mountainous-guizhou/?utm_source=rss&utm_medium=rss&utm_campaign=autoflight-completes-autonomous-evtol-cargo-flight-across-mountainous-guizhou
 https://cnevpost.com/2026/04/18/onvo-reveals-exterior-highlights-updated-l90-ahead-apr-21-launch/
+https://cnevpost.com/2026/04/18/2026-beijing-auto-show-to-feature-1451-vehicles-181-premieres/
+https://cnevpost.com/2026/04/18/hesai-releases-world-first-full-color-lidar-chip/
