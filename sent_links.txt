@@ -1,6 +1,3 @@
-https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/
-https://cnevpost.com/2026/01/28/china-issues-1st-mandatory-standard-driver-assist-aeb-as-standard/
-https://cnevpost.com/2026/01/28/avatr-rolls-off-1st-right-hand-drive-07-suvs/
 https://techcrunch.com/2026/01/28/redwood-attracts-google-for-its-425m-series-e-as-ai-power-needs-rise/
 https://techcrunch.com/2026/01/28/the-conference-where-founders-scale-founder-summit-2026-tickets-are-now-live-at-the-lowest-prices/
 https://techcrunch.com/2026/01/28/techcrunch-disrupt-2026-plus-one-passes-are-almost-gone-and-only-3-days-remain/
@@ -998,3 +995,6 @@ https://www.urbanairmobilitynews.com/emerging-regulations/uk-government-outlines
 https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/
 https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/
 https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/
+https://cnevpost.com/2026/04/23/robosense-releases-image-grade-spad-soc-platform-lidar-competition-heats-up/
+https://cnevpost.com/2026/04/23/nio-third-gen-es8-reaches-100000-deliveries/
+https://cnevpost.com/2026/04/23/nio-highlights-2026-beijing-auto-show/
