@@ -1,4 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/aerovolt-launches-scheme-for-electric-aircraft-operators-to-verify-emission-reductions/?utm_source=rss&utm_medium=rss&utm_campaign=aerovolt-launches-scheme-for-electric-aircraft-operators-to-verify-emission-reductions
 https://cnevpost.com/2026/02/03/mirrorme-unveils-worlds-fastest-humanoid-robot-bolt/
 https://evtolinsights.com/interview-h55s-andre-borschberg-on-safety-certification-and-the-reality-of-electric-flight/?utm_source=rss&utm_medium=rss&utm_campaign=interview-h55s-andre-borschberg-on-safety-certification-and-the-reality-of-electric-flight
 https://cnevpost.com/2026/02/03/china-new-auto-safety-standard-bans-hidden-door-handles/
@@ -998,3 +997,4 @@ https://cnevpost.com/2026/04/30/catl-inks-deal-with-australia-zinfra-battery-sto
 https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/
 https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/
 https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/
+https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/
