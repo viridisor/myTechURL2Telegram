@@ -1,4 +1,3 @@
-https://insideevs.com/news/787560/tesla-cybercab-robotaxi-giga-texas-production/
 https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/
 https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/
 https://evtolinsights.com/air-new-zealand-and-beta-technologies-wrap-up-first-phase-of-next-generation-aircraft-demonstrator-programme/?utm_source=rss&utm_medium=rss&utm_campaign=air-new-zealand-and-beta-technologies-wrap-up-first-phase-of-next-generation-aircraft-demonstrator-programme
@@ -998,3 +997,4 @@ https://www.urbanairmobilitynews.com/commentary/electric-airliners-no-dont-laugh
 https://www.urbanairmobilitynews.com/business-partnerships/airbility-schubeler-partner-to-develop-electric-ducted-fans-for-evtols/?utm_source=rss&utm_medium=rss&utm_campaign=airbility-schubeler-partner-to-develop-electric-ducted-fans-for-evtols
 https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/
 https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/
+https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/
