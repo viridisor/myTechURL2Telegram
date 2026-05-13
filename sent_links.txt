@@ -1,7 +1,3 @@
-https://techcrunch.com/2026/02/19/new-york-hits-the-brakes-on-robotaxi-expansion-plan/
-https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/
-https://cnevpost.com/2026/02/20/nio-single-day-battery-swap-record-158290-services/
-https://evtolinsights.com/skygrid-and-wisk-release-enabling-scalable-urban-air-mobility-through-automated-flight-rules-white-paper/?utm_source=rss&utm_medium=rss&utm_campaign=skygrid-and-wisk-release-enabling-scalable-urban-air-mobility-through-automated-flight-rules-white-paper
 https://evtolinsights.com/turning-visibility-into-value-prs-impact-on-b2b-sales/?utm_source=rss&utm_medium=rss&utm_campaign=turning-visibility-into-value-prs-impact-on-b2b-sales
 https://evtolinsights.com/final-chance-to-enter-evtol-insights-global-aam-awards-only-one-week-left-until-entry-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=final-chance-to-enter-evtol-insights-global-aam-awards-only-one-week-left-until-entry-deadline
 https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/
@@ -998,3 +994,7 @@ https://insideevs.com/news/787672/uber-investment-ev-charging-robotaxis/
 https://cnevpost.com/2026/05/13/china-auto-exports-seen-topping-10-million-2026/
 https://cnevpost.com/2026/05/13/huawei-jac-stellantis-in-talks-build-maserati-ev/
 https://cnevpost.com/2026/05/13/byd-expands-flash-charging-lineup-new-fang-cheng-bao-suvs/
+https://evtolinsights.com/uam-geomatics-warns-16-6-billion-infrastructure-gap-could-slow-advanced-air-mobility-rollout-across-the-united-states/?utm_source=rss&utm_medium=rss&utm_campaign=uam-geomatics-warns-16-6-billion-infrastructure-gap-could-slow-advanced-air-mobility-rollout-across-the-united-states
+https://evtolinsights.com/ohio-2026-live-interview-with-rex-alexander-president-and-executive-director-of-five-alpha-llc/?utm_source=rss&utm_medium=rss&utm_campaign=ohio-2026-live-interview-with-rex-alexander-president-and-executive-director-of-five-alpha-llc
+https://evtolinsights.com/ohio-2026-live-interview-with-karan-singh-founder-and-ceo-of-future-flight-global/?utm_source=rss&utm_medium=rss&utm_campaign=ohio-2026-live-interview-with-karan-singh-founder-and-ceo-of-future-flight-global
+https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/
