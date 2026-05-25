@@ -1,8 +1,3 @@
-https://evtolinsights.com/galaxy-1-partners-with-viasat-to-deliver-rapid-scalable-and-secure-communications-for-uncrewed-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=galaxy-1-partners-with-viasat-to-deliver-rapid-scalable-and-secure-communications-for-uncrewed-aircraft
-https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/rtx-progresses-hybrid-electric-propulsion-system-for-regional-airliners/?utm_source=rss&utm_medium=rss&utm_campaign=rtx-progresses-hybrid-electric-propulsion-system-for-regional-airliners
-https://www.urbanairmobilitynews.com/utm/anra-to-research-cooperative-separation-system-for-evtols-drones-and-other-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=anra-to-research-cooperative-separation-system-for-evtols-drones-and-other-aircraft
-https://cnevpost.com/2026/03/05/mercedes-taps-geely-architecture-for-new-global-ev-platform/
-https://evtolinsights.com/podcast-flyte-ceo-marc-sellouk-on-scaling-regional-air-mobility-in-the-usa/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-flyte-ceo-marc-sellouk-on-scaling-regional-air-mobility-in-the-usa
 https://www.urbanairmobilitynews.com/utm/skyports-supports-tokyo-evtol-flights-with-vertiport-automation-system/?utm_source=rss&utm_medium=rss&utm_campaign=skyports-supports-tokyo-evtol-flights-with-vertiport-automation-system
 https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/eib-to-finance-vaeridions-electric-nine-seat-regional-aircraft-microliner-programme/?utm_source=rss&utm_medium=rss&utm_campaign=eib-to-finance-vaeridions-electric-nine-seat-regional-aircraft-microliner-programme
 https://cnevpost.com/2026/03/05/byd-unveils-2nd-gen-blade-battery/
@@ -998,3 +993,8 @@ https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/
 https://www.urbanairmobilitynews.com/air-taxis/autoflight-tests-communications-links-flight-coordination-with-evtol-formation-flights/?utm_source=rss&utm_medium=rss&utm_campaign=autoflight-tests-communications-links-flight-coordination-with-evtol-formation-flights
 https://cnevpost.com/2026/05/25/nio-schedules-es9-launch-event-may-27-evening/
 https://cnevpost.com/2026/05/25/xpeng-gx-top-trim-wait-time-29-weeks/
+https://evtolinsights.com/video-autoflight-completes-first-evtol-aircraft-flight-as-part-of-landmark-demo-in-kazahkstan/?utm_source=rss&utm_medium=rss&utm_campaign=video-autoflight-completes-first-evtol-aircraft-flight-as-part-of-landmark-demo-in-kazahkstan
+https://evtolinsights.com/be-seen-be-heard-evtol-insights-on-the-lookout-for-more-industry-thought-leaders-to-join-its-podcast-show/?utm_source=rss&utm_medium=rss&utm_campaign=be-seen-be-heard-evtol-insights-on-the-lookout-for-more-industry-thought-leaders-to-join-its-podcast-show
+https://evtolinsights.com/horizon-aircraft-advances-dual-use-certification-path-through-cert-center-canada-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=horizon-aircraft-advances-dual-use-certification-path-through-cert-center-canada-partnership
+https://cnevpost.com/2026/05/25/over-90-onvo-l80-buyers-opt-for-baas/
+https://cnevpost.com/2026/05/25/catl-launches-chinas-first-standardized-light-truck-battery-swap-ecosystem/
