@@ -1,8 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/beta-technologies-announces-q4-2025-year-end-results/?utm_source=rss&utm_medium=rss&utm_campaign=beta-technologies-announces-q4-2025-year-end-results
-https://www.urbanairmobilitynews.com/air-taxis/hyde-county-nc-to-trial-pivotal-evtol-emergency-medical-response-operations/?utm_source=rss&utm_medium=rss&utm_campaign=hyde-county-nc-to-trial-pivotal-evtol-emergency-medical-response-operations
-https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/
-https://cnevpost.com/2026/03/10/xpeng-to-kick-off-vla-2-0-test-drives-mar-11-analysts-see-autonomous-leap/
-https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/
 https://cnevpost.com/2026/03/10/onvo-drops-limited-run-for-l60-black-knight-return/
 https://cnevpost.com/2026/03/10/zeekr-8x-pre-sales-mar-16-q2-launch/
 https://cnevpost.com/2026/03/10/geely-galaxy-teases-tech-hardcore-suv/
@@ -998,3 +993,8 @@ https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-t
 https://insideevs.com/news/797217/waymo-zeekr-ojai-robotaxis-ev/
 https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/
 https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/
+https://cnevpost.com/2026/05/29/nio-faces-european-users-address-software-delays-reaffirm-vision/
+https://cnevpost.com/2026/05/29/byd-to-launch-datang-suv-mid-jun/
+https://cnevpost.com/2026/05/29/nio-onvo-starts-pre-sales-updated-l60-eyes-jun-11-launch/
+https://cnevpost.com/2026/05/29/zeron-files-for-hk-ipo/
+https://cnevpost.com/2026/05/29/byd-expands-autonomous-driving-push-liability-guarantee/
