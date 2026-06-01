@@ -1,10 +1,3 @@
-https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/
-https://techcrunch.com/2026/03/11/drivers-in-fatal-ford-bluecruise-crashes-were-likely-distracted-before-impact/
-https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/
-https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/
-https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/
-https://cnevpost.com/2026/03/12/nio-william-li-sees-shared-tech-stack-but-waits-on-robotics/
-https://cnevpost.com/2026/03/12/zeron-secures-fresh-capital-china-electric-heavy-truck-race-heats-up/
 https://cnevpost.com/2026/03/12/nio-adds-new-color-to-es8/
 https://cnevpost.com/2026/03/12/smart-recalls-evs-china-battery-fire-risk/
 https://cnevpost.com/2026/03/12/tesla-showcases-upcoming-gen-3-humanoid-robot-china/
@@ -998,3 +991,10 @@ https://cnevpost.com/2026/06/01/china-auto-deliveries-may-2026/
 https://cnevpost.com/2026/06/01/nio-deliveries-may-2026/
 https://cnevpost.com/2026/06/01/xpeng-deliveries-may-2026/
 https://cnevpost.com/2026/06/01/nio-es8-delivers-11475-units-may-2026/
+https://evtolinsights.com/boeing-saudi-arabia-and-gaca-launch-aam-airspace-and-operational-feasibility-analysis-with-support-from-skygrid-and-kaust/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-saudi-arabia-and-gaca-launch-aam-airspace-and-operational-feasibility-analysis-with-support-from-skygrid-and-kaust
+https://evtolinsights.com/pivotal-joins-multistate-collaborative-msce-led-by-penndot-and-selected-by-faa-for-the-evtol-integration-pilot-program-eipp/?utm_source=rss&utm_medium=rss&utm_campaign=pivotal-joins-multistate-collaborative-msce-led-by-penndot-and-selected-by-faa-for-the-evtol-integration-pilot-program-eipp
+https://cnevpost.com/2026/06/01/leapmotor-may-2026-deliveries/
+https://cnevpost.com/2026/06/01/zeekrs-may-2026-deliveries/
+https://cnevpost.com/2026/06/01/li-auto-may-2026-deliveries/
+https://cnevpost.com/2026/06/01/geely-may-2026-sales-edge-up-exports-record/
+https://cnevpost.com/2026/06/01/byd-may-2026-sales/
