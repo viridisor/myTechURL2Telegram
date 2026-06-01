@@ -1,8 +1,3 @@
-https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/
-https://cnevpost.com/2026/03/11/nio-sees-ev-costs-rising-memory-chip-shortage-metal-price-rebound/
-https://techcrunch.com/2026/03/11/lucid-motors-ships-apple-carplay-and-android-auto-to-gravity-suv-owners/
-https://www.urbanairmobilitynews.com/air-taxis/robinson-helicopter-launches-wide-range-of-remotely-piloted-and-autonomous-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=robinson-helicopter-launches-wide-range-of-remotely-piloted-and-autonomous-aircraft
-https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/
 https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/
 https://techcrunch.com/2026/03/11/drivers-in-fatal-ford-bluecruise-crashes-were-likely-distracted-before-impact/
 https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/
@@ -998,3 +993,8 @@ https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-tec
 https://cnevpost.com/2026/05/30/seres-to-launch-new-auto-brand-in-june/
 https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/
 https://cnevpost.com/2026/06/01/xiaomi-ev-delivers-over-30000-cars-may-2026/
+https://cnevpost.com/2026/06/01/huawei-hima-delivers-46122-vehicles-may-2026/
+https://cnevpost.com/2026/06/01/china-auto-deliveries-may-2026/
+https://cnevpost.com/2026/06/01/nio-deliveries-may-2026/
+https://cnevpost.com/2026/06/01/xpeng-deliveries-may-2026/
+https://cnevpost.com/2026/06/01/nio-es8-delivers-11475-units-may-2026/
