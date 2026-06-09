@@ -1,13 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospaces-battery-pilot-production-line-now-operational/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospaces-battery-pilot-production-line-now-operational
-https://cnevpost.com/2026/03/18/chery-targets-1500-km-range-new-solid-state-battery/
-https://cnevpost.com/2026/03/18/xpeng-shifts-p7-strategy-cheaper-trims-tiered-chips/
-https://www.urbanairmobilitynews.com/uam-infrastructure/urban-air-port-launches-vbm-ai-aam-planning-and-simulation-platform/?utm_source=rss&utm_medium=rss&utm_campaign=urban-air-port-launches-vbm-ai-aam-planning-and-simulation-platform
-https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/
-https://cnevpost.com/2026/03/19/dongfeng-voyah-makes-hk-stock-market-debut/
-https://cnevpost.com/2026/03/19/eve-energy-rolls-out-2-new-all-solid-state-batteries/
-https://cnevpost.com/2026/03/19/nio-firefly-teases-new-special-edition-mar-20-launch/
-https://evtolinsights.com/podcast-barbara-pareglio-of-gsma-on-why-mobile-networks-are-crucial-to-scaling-advanced-air-mobility/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-barbara-pareglio-of-gsma-on-why-mobile-networks-are-crucial-to-scaling-advanced-air-mobility
-https://evtolinsights.com/from-integration-to-industrialisation-enabling-the-next-phase-of-aam-with-julian-del-campo-of-regal-rexnord-aerospace-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=from-integration-to-industrialisation-enabling-the-next-phase-of-aam-with-julian-del-campo-of-regal-rexnord-aerospace-solutions
 https://cnevpost.com/2026/03/19/weride-enters-slovakia-expanding-footprint-12-countries/
 https://cnevpost.com/2026/03/19/horizon-robotics-plans-next-gen-chip-outpace-nvidias-thor-x/
 https://evtolinsights.com/analysis-from-ea-maven-suggests-a-single-operator-market-could-boost-early-electric-air-taxi-profits-by-15-7-per-cent/?utm_source=rss&utm_medium=rss&utm_campaign=analysis-from-ea-maven-suggests-a-single-operator-market-could-boost-early-electric-air-taxi-profits-by-15-7-per-cent
@@ -998,3 +988,13 @@ https://evtolinsights.com/thought-leadership-the-legal-infrastructure-the-evtol-
 https://evtolinsights.com/former-bombardier-vertical-aerospace-and-cae-engineering-leader-richard-alexander-joins-horizon-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=former-bombardier-vertical-aerospace-and-cae-engineering-leader-richard-alexander-joins-horizon-aircraft
 https://cnevpost.com/2026/06/09/nio-pushes-back-against-pentagons-chinese-military-list/
 https://cnevpost.com/2026/06/09/byd-chairman-this-year-sales-depend-battery-output/
+https://evtolinsights.com/china-gac-group-rolls-out-first-production-of-its-govy-aircab-evtol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=china-gac-group-rolls-out-first-production-of-its-govy-aircab-evtol-aircraft
+https://evtolinsights.com/vertical-aerospaces-final-full-scale-prototype-completes-first-piloted-flight/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospaces-final-full-scale-prototype-completes-first-piloted-flight
+https://www.urbanairmobilitynews.com/air-taxis/doroni-aerospace-unveils-final-design-of-its-h1-x-evtol/?utm_source=rss&utm_medium=rss&utm_campaign=doroni-aerospace-unveils-final-design-of-its-h1-x-evtol
+https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospaces-second-full-scale-prototype-makes-first-piloted-flight/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospaces-second-full-scale-prototype-makes-first-piloted-flight
+https://insideevs.com/news/798170/pepsico-gatik-autonomous-delivery-trucks/
+https://cnevpost.com/2026/06/09/xpeng-may-2026-deliveries-breakdown/
+https://cnevpost.com/2026/06/09/nio-dominates-china-large-suv-market/
+https://cnevpost.com/2026/06/09/li-auto-may-2026-deliveries-breakdown/
+https://cnevpost.com/2026/06/09/guangdong-plans-3-million-ev-chargers-boost-byd-xpeng/
+https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/
