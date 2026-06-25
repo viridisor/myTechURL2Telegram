@@ -1,8 +1,3 @@
-https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/
-https://www.urbanairmobilitynews.com/emerging-regulations/easa-proposes-lower-safety-criteria-for-evtol-test-flights/?utm_source=rss&utm_medium=rss&utm_campaign=easa-proposes-lower-safety-criteria-for-evtol-test-flights
-https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/
-https://cnevpost.com/2026/04/03/xiaomi-new-su7-locked-in-orders-surpass-40000/
-https://cnevpost.com/2026/04/03/catl-signs-deal-sto-express-electrify-delivery-trucks/
 https://cnevpost.com/2026/04/03/nio-firefly-sets-apr-7-for-ev-upgrade/
 https://cnevpost.com/2026/04/03/geely-aerofugia-begins-pre-ipo-tutoring-china-a-share-listing/
 https://cnevpost.com/2026/04/03/nio-third-gen-es8-90000-deliveries/
@@ -998,3 +993,8 @@ https://www.urbanairmobilitynews.com/air-taxis/ehang-selected-for-hong-kong-sand
 https://cnevpost.com/2026/06/25/china-auto-mystery-will-beijing-auto-show-switch-to-annual/
 https://cnevpost.com/2026/06/25/catl-plans-36-battery-swap-stations-hk-2030/
 https://cnevpost.com/2026/06/25/china-unveils-plan-reshape-energy-system/
+https://evtolinsights.com/draft-agenda-revealed-for-evtol-insights-europe-conference-in-toulouse-early-bird-tickets-now-on-sale/?utm_source=rss&utm_medium=rss&utm_campaign=draft-agenda-revealed-for-evtol-insights-europe-conference-in-toulouse-early-bird-tickets-now-on-sale
+https://evtolinsights.com/sora-aviation-achieves-major-development-milestone-with-successful-vtol-flight-testing-of-subscale-s-1demonstrator/?utm_source=rss&utm_medium=rss&utm_campaign=sora-aviation-achieves-major-development-milestone-with-successful-vtol-flight-testing-of-subscale-s-1demonstrator
+https://evtolinsights.com/beyond-the-aircraft-creating-the-ecosystem-for-evtol-success-with-michael-proffitt-of-vertiports-uk/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-aircraft-creating-the-ecosystem-for-evtol-success-with-michael-proffitt-of-vertiports-uk
+https://evtolinsights.com/beta-technologies-and-surf-air-mobility-partner-on-landmark-demonstration-program-hawaiian-airlines-supporting-evaluation-activities/?utm_source=rss&utm_medium=rss&utm_campaign=beta-technologies-and-surf-air-mobility-partner-on-landmark-demonstration-program-hawaiian-airlines-supporting-evaluation-activities
+https://cnevpost.com/2026/06/25/byd-broadens-energy-storage-lineup-europe/
