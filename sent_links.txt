@@ -1,5 +1,3 @@
-https://www.urbanairmobilitynews.com/emerging-regulations/uk-government-outlines-regulatory-workplan-for-speeding-bvlos-operations-and-evtol-integration/?utm_source=rss&utm_medium=rss&utm_campaign=uk-government-outlines-regulatory-workplan-for-speeding-bvlos-operations-and-evtol-integration
-https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/
 https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/
 https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/
 https://cnevpost.com/2026/04/23/robosense-releases-image-grade-spad-soc-platform-lidar-competition-heats-up/
@@ -998,3 +996,5 @@ https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/faa-signs-off
 https://cnevpost.com/2026/07/11/china-nev-retail-fall-first-week-jul-2026/
 https://cnevpost.com/2026/07/11/xpeng-jun-2026-deliveries-breakdown/
 https://cnevpost.com/2026/07/11/byd-denza-files-z9s-electric-sedan/
+https://cnevpost.com/2026/07/11/vw-anhui-files-id-unyx-09/
+https://cnevpost.com/2026/07/11/geely-files-galaxy-cruiser-700/
