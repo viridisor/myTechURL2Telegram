@@ -1,5 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/29356/?utm_source=rss&utm_medium=rss&utm_campaign=29356
-https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/
 https://www.urbanairmobilitynews.com/air-taxis/reuben-brothers-joby-to-build-vertiport-at-park-elm-residences-in-los-angeles/?utm_source=rss&utm_medium=rss&utm_campaign=reuben-brothers-joby-to-build-vertiport-at-park-elm-residences-in-los-angeles
 https://evtolinsights.com/skydrive-and-west-nippon-expressway-company-to-explore-using-service-areas-and-parking-areas-for-advanced-air-mobility/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-and-west-nippon-expressway-company-to-explore-using-service-areas-and-parking-areas-for-advanced-air-mobility
 https://evtolinsights.com/airspeeder-unveils-mk4-flying-racecraft-and-launches-global-international-series-at-the-bend/?utm_source=rss&utm_medium=rss&utm_campaign=airspeeder-unveils-mk4-flying-racecraft-and-launches-global-international-series-at-the-bend
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/07/13/xpeng-sets-mona-l03-munich-launch-time/
 https://cnevpost.com/2026/07/13/byd-previews-qin-max-sedan-flash-charging/
 https://cnevpost.com/2026/07/13/vw-confirms-id-unyx-09-sedan-xpeng-coming-h2/
 https://cnevpost.com/2026/07/13/hainan-reiterates-2030-gasoline-car-sales-ban/
+https://evtolinsights.com/beta-technologies-completes-first-multistate-electric-aircraft-flights-under-faa-program/?utm_source=rss&utm_medium=rss&utm_campaign=beta-technologies-completes-first-multistate-electric-aircraft-flights-under-faa-program
+https://cnevpost.com/2026/07/13/bytedance-said-to-weigh-autonomous-driving-push/
