@@ -1,7 +1,3 @@
-https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/
-https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/
-https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/
-https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/
 https://cnevpost.com/2026/05/01/li-auto-delivers-34085-vehicles-april-2026/
 https://cnevpost.com/2026/05/01/xiaomi-ev-april-deliveries-top-30000-new-yu7-gt-nears/
 https://cnevpost.com/2026/05/01/leapmotor-delivers-record-71387-cars-april-2026/
@@ -998,3 +994,7 @@ https://cnevpost.com/2026/07/17/byd-teases-8-series-tang-800-km-range/
 https://cnevpost.com/2026/07/17/leapmotor-sticks-to-1-million-2026-sales-target/
 https://cnevpost.com/2026/07/17/nio-firefly-unveils-halo-series-first-model-jul-20/
 https://cnevpost.com/2026/07/17/byd-denza-previews-z9s/
+https://evtolinsights.com/archer-beta-and-macquarie-form-aces-consortium-for-electric-aviation-charging-network/?utm_source=rss&utm_medium=rss&utm_campaign=archer-beta-and-macquarie-form-aces-consortium-for-electric-aviation-charging-network
+https://evtolinsights.com/noemi-aerospace-secures-e3m-from-innovation-norway-for-electric-amphibious-aircraft-program/?utm_source=rss&utm_medium=rss&utm_campaign=noemi-aerospace-secures-e3m-from-innovation-norway-for-electric-amphibious-aircraft-program
+https://evtolinsights.com/hitachi-energy-and-eve-air-mobility-partner-on-electrification-infrastructure-for-urban-air-mobility/?utm_source=rss&utm_medium=rss&utm_campaign=hitachi-energy-and-eve-air-mobility-partner-on-electrification-infrastructure-for-urban-air-mobility
+https://cnevpost.com/2026/07/17/leapmotor-reveals-a05s-interior/
