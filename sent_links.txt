@@ -1,5 +1,3 @@
-https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/
-https://cnevpost.com/2026/05/06/rivian-mulls-lidar-production-potential-chinese-partnership/
 https://cnevpost.com/2026/05/06/xiaomi-updated-su7-80000-locked-in-orders-48-days/
 https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/
 https://cnevpost.com/2026/05/06/global-ev-battery-market-share-jan-mar-2026/
@@ -998,3 +996,5 @@ https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-a
 https://www.urbanairmobilitynews.com/emerging-regulations/29914/?utm_source=rss&utm_medium=rss&utm_campaign=29914
 https://cnevpost.com/2026/07/19/nio-onvo-l90-deliveries-60000/
 https://cnevpost.com/2026/07/19/gwm-launches-new-tank-300/
+https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-eve-air-mobility-seals-deal-with-shearwater-global-capital-for-up-to-16-evtols/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-eve-air-mobility-seals-deal-with-shearwater-global-capital-for-up-to-16-evtols
+https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/
