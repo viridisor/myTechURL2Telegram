@@ -1,8 +1,3 @@
-https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/
-https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/
-https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/
-https://cnevpost.com/2026/05/08/deepway-files-for-hk-ipo/
-https://cnevpost.com/2026/05/08/xiaomi-ev-accelerates-overseas-push-exec-appointments/
 https://cnevpost.com/2026/05/08/zeekr-sets-may-19-launch-revamped-009/
 https://evtolinsights.com/skyports-infrastructure-and-city-of-gold-coast-to-advance-commercial-advanced-air-mobility-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=skyports-infrastructure-and-city-of-gold-coast-to-advance-commercial-advanced-air-mobility-in-australia
 https://evtolinsights.com/middle-east-archer-and-uaes-gcaa-move-to-streamlined-approach-for-certifying-its-midnight-evtol-aircraft-in-the-country/?utm_source=rss&utm_medium=rss&utm_campaign=middle-east-archer-and-uaes-gcaa-move-to-streamlined-approach-for-certifying-its-midnight-evtol-aircraft-in-the-country
@@ -998,3 +993,8 @@ https://www.urbanairmobilitynews.com/utm/farnborough-2026-honeywell-to-lead-sesa
 https://www.urbanairmobilitynews.com/hydrogen/zeroavia-and-safran-partner-on-hydrogen-electric-propulsion/?utm_source=rss&utm_medium=rss&utm_campaign=zeroavia-and-safran-partner-on-hydrogen-electric-propulsion
 https://cnevpost.com/2026/07/21/catl-sodium-battery-storage-deal-solarpro/
 https://cnevpost.com/2026/07/21/geely-galaxy-tt-ultra-opens-pre-sales/
+https://evtolinsights.com/electra-to-usher-in-the-next-era-of-aviation-with-advanced-production-facility-in-springfield-ohio/?utm_source=rss&utm_medium=rss&utm_campaign=electra-to-usher-in-the-next-era-of-aviation-with-advanced-production-facility-in-springfield-ohio
+https://www.urbanairmobilitynews.com/air-taxis/uk-government-and-vertical-2discussing-ukp-10-million-support-to-evtol-production-facilities/?utm_source=rss&utm_medium=rss&utm_campaign=uk-government-and-vertical-2discussing-ukp-10-million-support-to-evtol-production-facilities
+https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-australia-v-star-buys-five-horizon-aircraft-cavorite-x7s/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-australia-v-star-buys-five-horizon-aircraft-cavorite-x7s
+https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-europes-clearsky-airlines-to-launch-in-2027-with-beta-alia-ctol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-europes-clearsky-airlines-to-launch-in-2027-with-beta-alia-ctol-aircraft
+https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/farnborough-2026-electra-to-build-its-elp-ultra-short-in-springfield-ohio/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-electra-to-build-its-elp-ultra-short-in-springfield-ohio
