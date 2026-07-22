@@ -1,9 +1,3 @@
-https://cnevpost.com/2026/05/08/saic-audi-starts-pre-sales-audi-e7x/
-https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/
-https://insideevs.com/news/795337/lucid-gravity-nuro-uber-california-permit/
-https://cnevpost.com/2026/05/08/huajing-s-launched-with-aggressive-pricing/
-https://www.urbanairmobilitynews.com/air-taxis/caam-reports-first-piloted-hydrogen-electric-helicopter-circuit-flight/?utm_source=rss&utm_medium=rss&utm_campaign=caam-reports-first-piloted-hydrogen-electric-helicopter-circuit-flight
-https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/
 https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/
 https://cnevpost.com/2026/05/09/catl-plans-40-gwh-sodium-battery-capacity-expansion/
 https://cnevpost.com/2026/05/09/byd-linghui-launches-e9-flagship-sedan/
@@ -998,3 +992,9 @@ https://evtolinsights.com/skydrive-partners-with-kineco-for-composite-aerostruct
 https://evtolinsights.com/fia-2026-honeywell-aerospace-to-lead-eu-initiative-for-safe-integration-of-evtols-and-cargo-drones-into-european-airspace/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-honeywell-aerospace-to-lead-eu-initiative-for-safe-integration-of-evtols-and-cargo-drones-into-european-airspace
 https://cnevpost.com/2026/07/22/nio-delivers-130000th-third-gen-es8/
 https://cnevpost.com/2026/07/22/byd-da-tang-to-reach-10000-deliveries-1-month/
+https://evtolinsights.com/fia-2026-sora-aviation-and-toray-advanced-composites-sign-mou-at-farnborough-international-airshow/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-sora-aviation-and-toray-advanced-composites-sign-mou-at-farnborough-international-airshow
+https://www.urbanairmobilitynews.com/air-taxis/autoflight-sf-group-partner-to-deliver-offshore-energy-logistics-services/?utm_source=rss&utm_medium=rss&utm_campaign=autoflight-sf-group-partner-to-deliver-offshore-energy-logistics-services
+https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-sora-signs-production-contracts-with-honeywell-technologies-and-toray/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-sora-signs-production-contracts-with-honeywell-technologies-and-toray
+https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-skydrive-announces-supplier-deals-with-sanyoh-kineco-ito-and-airtificial/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-skydrive-announces-supplier-deals-with-sanyoh-kineco-ito-and-airtificial
+https://cnevpost.com/2026/07/22/xpeng-aridge-certification-boost-evtol-compliance-list/
+https://cnevpost.com/2026/07/22/vw-l3-autonomous-driving-china-h2-2027/
