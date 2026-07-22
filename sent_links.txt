@@ -1,10 +1,3 @@
-https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/
-https://cnevpost.com/2026/05/09/catl-plans-40-gwh-sodium-battery-capacity-expansion/
-https://cnevpost.com/2026/05/09/byd-linghui-launches-e9-flagship-sedan/
-https://cnevpost.com/2026/05/09/avatr-releases-official-images-07l/
-https://cnevpost.com/2026/05/09/saic-mg-teases-mg-07-sedan/
-https://cnevpost.com/2026/05/09/ev-makers-deny-being-summoned-over-battery-locking/
-https://cnevpost.com/2026/05/09/byd-launch-2026-seagull-may-11-lidar/
 https://cnevpost.com/2026/05/09/xpeng-president-wang-fengying-becomes-shareholder/
 https://cnevpost.com/2026/05/09/nio-onvo-starts-deliveries-2026-l90/
 https://cnevpost.com/2026/05/09/byd-secures-100000-vehicle-order-from-car-inc/
@@ -998,3 +991,10 @@ https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-sora-signs-produ
 https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-skydrive-announces-supplier-deals-with-sanyoh-kineco-ito-and-airtificial/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-skydrive-announces-supplier-deals-with-sanyoh-kineco-ito-and-airtificial
 https://cnevpost.com/2026/07/22/xpeng-aridge-certification-boost-evtol-compliance-list/
 https://cnevpost.com/2026/07/22/vw-l3-autonomous-driving-china-h2-2027/
+https://www.urbanairmobilitynews.com/uam-infrastructure/farnborough-2026-eve-air-mobility-signs-aam-infrastructure-research-partnership-with-floridas-suntrax/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-eve-air-mobility-signs-aam-infrastructure-research-partnership-with-floridas-suntrax
+https://www.urbanairmobilitynews.com/propulsion/farnborough-2026-rtxs-pratt-whitney-canada-progresses-hybrid-electric-propulsion/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-rtxs-pratt-whitney-canada-progresses-hybrid-electric-propulsion
+https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-vertical-joins-honeywell-aerospace-led-vert-igo-eu-aam-programme/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-vertical-joins-honeywell-aerospace-led-vert-igo-eu-aam-programme
+https://www.urbanairmobilitynews.com/uam-infrastructure/vertical-aerospace-and-saudi-arabias-gcaa-and-cluster-2-airports-to-partner-on-aam-development/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospace-and-saudi-arabias-gcaa-and-cluster-2-airports-to-partner-on-aam-development
+https://www.urbanairmobilitynews.com/defence/farnborough-2026-beta-technologies-exhibits-its-alia-mv250-military-logistics-drone/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-beta-technologies-exhibits-its-alia-mv250-military-logistics-drone
+https://www.urbanairmobilitynews.com/uam-infrastructure/skydrive-itri-7a-dronesto-implement-evtol-drone-medical-transport-programme-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-itri-7a-dronesto-implement-evtol-drone-medical-transport-programme-in-taiwan
+https://insideevs.com/news/795337/lucid-gravity-nuro-uber-california-permit/
