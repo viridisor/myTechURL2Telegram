@@ -1,8 +1,3 @@
-https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/
-https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/
-https://cnevpost.com/2026/05/22/nio-shares-rise-hk-after-q1-earnings/
-https://cnevpost.com/2026/05/22/voyah-previews-passion-s-sports-suv/
-https://evtolinsights.com/middle-east-salaam-earth-and-flynow-host-roundtable-with-nidc-on-flying-taxi-testing-in-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=middle-east-salaam-earth-and-flynow-host-roundtable-with-nidc-on-flying-taxi-testing-in-saudi-arabia
 https://evtolinsights.com/amprius-and-matternet-partner-to-advance-high-density-cells-for-commercial-drone-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=amprius-and-matternet-partner-to-advance-high-density-cells-for-commercial-drone-delivery
 https://evtolinsights.com/vertical-aerospace-selects-hyundai-wia-as-landing-gear-partner-for-its-valo-evtol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospace-selects-hyundai-wia-as-landing-gear-partner-for-its-valo-evtol-aircraft
 https://cnevpost.com/2026/05/22/saic-100-million-vehicle-delivery-milestone-end-may/
@@ -998,3 +993,8 @@ https://cnevpost.com/2026/08/04/nio-es9-to-reach-20000th-delivery-this-week/
 https://cnevpost.com/2026/08/04/xpeng-details-g9l-interior/
 https://cnevpost.com/2026/08/04/nio-es8-leads-china-ev-owner-loyalty-survey/
 https://cnevpost.com/2026/08/04/byd-racco-700-orders-first-week-japan/
+https://evtolinsights.com/eve-achieves-first-in-flight-activation-of-pusher-propulsion-system/?utm_source=rss&utm_medium=rss&utm_campaign=eve-achieves-first-in-flight-activation-of-pusher-propulsion-system
+https://evtolinsights.com/archers-midnight-completes-piloted-city-to-city-flights-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=archers-midnight-completes-piloted-city-to-city-flights-in-california
+https://cnevpost.com/2026/08/04/global-ess-battery-market-share-h1-2026/
+https://cnevpost.com/2026/08/04/china-sets-safety-baseline-l3-l4-autonomous-driving/
+https://cnevpost.com/2026/08/04/xpeng-sets-aug-24-q2-earnings/
