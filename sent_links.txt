@@ -1,6 +1,3 @@
-https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/
-https://www.urbanairmobilitynews.com/market-analysis/electra-outlines-market-potential-of-its-el9-ultra-short-hybrid-electric-airliner/?utm_source=rss&utm_medium=rss&utm_campaign=electra-outlines-market-potential-of-its-el9-ultra-short-hybrid-electric-airliner
-https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/
 https://cnevpost.com/2026/05/28/robosense-robotics-lidar-shipments-surpass-automotive/
 https://evtolinsights.com/podcast-surf-air-mobilitys-louis-saint-cyr-on-ai-electric-aircraft-and-the-future-of-regional-flight/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-surf-air-mobilitys-louis-saint-cyr-on-ai-electric-aircraft-and-the-future-of-regional-flight
 https://cnevpost.com/2026/05/28/nio-onvo-to-start-pre-sales-updated-l60-may-29/
@@ -998,3 +995,6 @@ https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-2835
 https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/
 https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/
 https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
+https://cnevpost.com/2026/08/07/nio-120-million-battery-swaps-4000th-station/
+https://cnevpost.com/2026/08/07/global-ev-battery-market-share-h1-2026/
+https://cnevpost.com/2026/08/07/deepal-launches-updated-s05-suv/
