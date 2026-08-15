@@ -1,4 +1,3 @@
-https://verticalmag.com/wisk-and-red-define-accessibility-recommendations-for-the-advanced-air-mobility-industry/
 https://insideevs.com/news/796291/self-driving-cars-the-story/
 https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/
 https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/
@@ -998,3 +997,4 @@ https://cnevpost.com/2026/08/14/gwm-launches-wey-v8x-suv/
 https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/
 https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/
 https://insideevs.com/news/789969/hyundai-ioniq-5-robotaxi-uber-las-vegas/
+https://cnevpost.com/2026/08/15/voyah-passion-s-goes-on-sale/
