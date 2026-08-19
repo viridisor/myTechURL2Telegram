@@ -1,5 +1,3 @@
-https://insideevs.com/news/790503/uber-rivian-r2-robotaxi-deal/
-https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/
 https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/
 https://cnevpost.com/2026/06/10/automakers-share-china-nev-market-may-2026/
 https://cnevpost.com/2026/06/10/xpeng-enters-yacht-industry-report/
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/08/19/chery-aimoga-prepares-ipo/
 https://evtolinsights.com/fia-2026-matt-hill-of-gotonomi-on-operationalizing-aam-scaling-digital-infrastructure-comms/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-matt-hill-of-gotonomi-on-operationalizing-aam-scaling-digital-infrastructure-comms
 https://evtolinsights.com/fia-2026-jeff-rex-of-l2-aviation-on-why-connectivity-and-autonomy-are-key-to-aams-future/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-jeff-rex-of-l2-aviation-on-why-connectivity-and-autonomy-are-key-to-aams-future
 https://cnevpost.com/2026/08/19/facelifted-nio-et5-touring-road-tests/
+https://evtolinsights.com/fia-2026-megha-bhatia-of-eve-air-mobility-highlights-14b-backlog-and-new-commercial-commitments/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-megha-bhatia-of-eve-air-mobility-highlights-14b-backlog-and-new-commercial-commitments
+https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/
