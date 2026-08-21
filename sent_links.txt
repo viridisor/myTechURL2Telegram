@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/
 https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/
 https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/
 https://cnevpost.com/2026/06/11/china-nev-retail-fall-first-week-june-penetration-climbs/
@@ -998,3 +997,4 @@ https://www.urbanairmobilitynews.com/air-taxis/noemi-signs-electric-seaplane-dea
 https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/
 https://cnevpost.com/2026/08/21/bmw-pre-sales-china-only-long-wheelbase-neue-klasse-ix3/
 https://cnevpost.com/2026/08/21/byd-starts-da-han-ev-pre-sales/
+https://cnevpost.com/2026/08/21/nio-es8-deliveries-140000/
