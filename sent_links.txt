@@ -1,5 +1,3 @@
-https://evtolinsights.com/valour-consultancy-publishes-new-report-which-suggests-more-than-6500-electric-air-taxis-will-be-flying-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=valour-consultancy-publishes-new-report-which-suggests-more-than-6500-electric-air-taxis-will-be-flying-by-2050
-https://www.urbanairmobilitynews.com/market-analysis/valour-consultancy-report-forecasts-6824-evtol-air-taxis-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=valour-consultancy-report-forecasts-6824-evtol-air-taxis-by-2050
 https://www.urbanairmobilitynews.com/logistics/autoflights-v2000cg-carryall-cargo-evtol-drone-granted-indonesian-type-certificate/?utm_source=rss&utm_medium=rss&utm_campaign=autoflights-v2000cg-carryall-cargo-evtol-drone-granted-indonesian-type-certificate
 https://cnevpost.com/2026/06/11/catl-enters-nuclear-fusion-race-invest-beta-fusion/
 https://cnevpost.com/2026/06/11/china-summon-automakers-irrational-competition/
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/08/21/hyundai-ioniq-v-pre-sales-china/
 https://cnevpost.com/2026/08/21/china-biggest-auto-recall-hits-tesla-xiaomi-leapmotor-others/
 https://insideevs.com/news/805700/nevada-robotaxi-permits-tesla-waymo-uber-paid-rides/
 https://cnevpost.com/2026/08/21/geely-recalls-lidar-defect/
+https://cnevpost.com/2026/08/21/cpca-china-aug-2026-nev-retail/
+https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/
