@@ -1,5 +1,3 @@
-https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/
-https://insideevs.com/news/799151/waymo-robotaxi-recall/
 https://www.urbanairmobilitynews.com/air-taxis/doroni-aerospace-raises-over-usd30-million-in-total-capital-raised/?utm_source=rss&utm_medium=rss&utm_campaign=doroni-aerospace-raises-over-usd30-million-in-total-capital-raised
 https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/
 https://evtolinsights.com/manna-secures-significant-regulatory-milestone-with-sail-iii-operational-authorisation-from-uk-civil-aviation-authority/?utm_source=rss&utm_medium=rss&utm_campaign=manna-secures-significant-regulatory-milestone-with-sail-iii-operational-authorisation-from-uk-civil-aviation-authority
@@ -998,3 +996,5 @@ https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cam
 https://cnevpost.com/2026/08/29/faw-vw-opens-id-aura-t6-pre-sales/
 https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/
 https://cnevpost.com/2026/08/30/byd-denza-launch-n8l-ev-sept-2026/
+https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/
+https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/
