@@ -1,5 +1,3 @@
-https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/
-https://evtolinsights.com/manna-secures-significant-regulatory-milestone-with-sail-iii-operational-authorisation-from-uk-civil-aviation-authority/?utm_source=rss&utm_medium=rss&utm_campaign=manna-secures-significant-regulatory-milestone-with-sail-iii-operational-authorisation-from-uk-civil-aviation-authority
 https://cnevpost.com/2026/06/19/byd-plans-sub-brands-self-funding/
 https://cnevpost.com/2026/06/19/nio-10-years-uk-rd-new-engineering-hub/
 https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/
@@ -998,3 +996,5 @@ https://cnevpost.com/2026/08/30/byd-denza-launch-n8l-ev-sept-2026/
 https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/
 https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/
 https://insideevs.com/news/799151/waymo-robotaxi-recall/
+https://cnevpost.com/2026/08/31/byd-to-take-racco-k-car-tech-global/
+https://cnevpost.com/2026/08/31/china-new-rules-smart-vehicle-sensors-more-design-freedom/
