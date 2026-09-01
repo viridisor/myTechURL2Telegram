@@ -1,11 +1,3 @@
-https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/
-https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/
-https://cnevpost.com/2026/06/23/xpeng-debut-mona-l03-jul/
-https://cnevpost.com/2026/06/23/maextro-debut-v800-mpv-jun-25/
-https://evtolinsights.com/new-valour-consultancy-report-suggests-global-commercial-drone-and-uas-fleet-will-reach-more-than-5-5-million-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=new-valour-consultancy-report-suggests-global-commercial-drone-and-uas-fleet-will-reach-more-than-5-5-million-by-2050
-https://cnevpost.com/2026/06/23/momenta-files-hk-listing/
-https://evtolinsights.com/intelligent-energy-advances-commercial-hydrogen-aviation-with-completion-of-ati-backed-h2gear-project/?utm_source=rss&utm_medium=rss&utm_campaign=intelligent-energy-advances-commercial-hydrogen-aviation-with-completion-of-ati-backed-h2gear-project
-https://evtolinsights.com/autoflight-selected-for-hong-kongs-inaugural-regulatory-sandbox-x-flight-trials/?utm_source=rss&utm_medium=rss&utm_campaign=autoflight-selected-for-hong-kongs-inaugural-regulatory-sandbox-x-flight-trials
 https://cnevpost.com/2026/06/23/byd-denza-launches-n8l-flash-charging/
 https://cnevpost.com/2026/06/23/li-auto-launches-revamped-l8-suv/
 https://www.urbanairmobilitynews.com/logistics/poseidon-aerospace-develops-full-scale-mock-up-of-its-4000lb-payload-cargo-drone/?utm_source=rss&utm_medium=rss&utm_campaign=poseidon-aerospace-develops-full-scale-mock-up-of-its-4000lb-payload-cargo-drone
@@ -998,3 +990,11 @@ https://cnevpost.com/2026/09/01/nio-es8-aug-2026-deliveries/
 https://cnevpost.com/2026/09/01/zeekr-aug-2026-deliveries/
 https://cnevpost.com/2026/09/01/byd-aug-2026-sales/
 https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/
+https://evtolinsights.com/horizon-aircraft-begins-ice-protection-testing-for-cavorite-x7/?utm_source=rss&utm_medium=rss&utm_campaign=horizon-aircraft-begins-ice-protection-testing-for-cavorite-x7
+https://www.urbanairmobilitynews.com/research/faa-announces-test-flight-with-remotely-piloted-hybrid-electric-cargo-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=faa-announces-test-flight-with-remotely-piloted-hybrid-electric-cargo-aircraft
+https://www.urbanairmobilitynews.com/air-taxis/horizon-aircraft-progresses-cold-weather-carovite-x7-tests/?utm_source=rss&utm_medium=rss&utm_campaign=horizon-aircraft-progresses-cold-weather-carovite-x7-tests
+https://www.urbanairmobilitynews.com/utm/republic-of-korea-announces-krw-85-billion-uam-project-to-begin-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=republic-of-korea-announces-krw-85-billion-uam-project-to-begin-in-2027
+https://cnevpost.com/2026/09/01/nio-earnings-q2-2026/
+https://cnevpost.com/2026/09/01/nio-q2-2026-earnings-call-live/
+https://cnevpost.com/2026/09/01/china-sets-competition-guidelines-automakers-overseas/
+https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/
