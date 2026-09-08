@@ -1,6 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/joby-aviation-toyota-announce-initial-phase-of-their-manufacturing-alliance/?utm_source=rss&utm_medium=rss&utm_campaign=joby-aviation-toyota-announce-initial-phase-of-their-manufacturing-alliance
-https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/
-https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/
 https://insideevs.com/news/800217/tesla-cybercab-test/
 https://cnevpost.com/2026/07/01/li-auto-jun-2026-deliveries/
 https://cnevpost.com/2026/07/01/catl-restarts-jiangxi-lithium-mine/
@@ -998,3 +995,6 @@ https://cnevpost.com/2026/09/07/xiaomi-sky-nomad-10000-orders-4-mins/
 https://cnevpost.com/2026/09/08/xpeng-opens-iron-humanoid-robot-production-line/
 https://cnevpost.com/2026/09/08/xiaomi-l3-lead-exits-for-physical-ai/
 https://cnevpost.com/2026/09/08/avatr-teases-9-series-flagship-suv/
+https://cnevpost.com/2026/09/08/tesla-china-retail-sales-aug-2026/
+https://cnevpost.com/2026/09/08/china-aug-2026-nev-retail/
+https://cnevpost.com/2026/09/08/xiaomi-delivers-30153-cars-aug-2026/
