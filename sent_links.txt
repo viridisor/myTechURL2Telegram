@@ -1,7 +1,3 @@
-https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/
-https://cnevpost.com/2026/07/13/dongfeng-readies-canada-ev-push/
-https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/
-https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/
 https://evtolinsights.com/venetz-aerospace-secures-landmark-uk-caa-design-organisation-approval-for-electricmotors-and-propellers/?utm_source=rss&utm_medium=rss&utm_campaign=venetz-aerospace-secures-landmark-uk-caa-design-organisation-approval-for-electricmotors-and-propellers
 https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/
 https://cnevpost.com/2026/07/14/byd-thailand-deliveries-130000-local-plant-2nd-anniversary/
@@ -998,3 +994,7 @@ https://evtolinsights.com/aridge-and-uae-authorities-plan-flying-car-testing-san
 https://cnevpost.com/2026/09/22/li-auto-solid-state-battery-limited-vehicle-use-2027-2028/
 https://cnevpost.com/2026/09/22/catl-begins-trial-cell-production-hungary-plant/
 https://cnevpost.com/2026/09/22/zeekr-begins-volume-shipments-9x-uae/
+https://www.urbanairmobilitynews.com/air-taxis/electra-demonstrates-ultra-short-fixed-wing-capability-from-vertiports-during-eipp-trails/?utm_source=rss&utm_medium=rss&utm_campaign=electra-demonstrates-ultra-short-fixed-wing-capability-from-vertiports-during-eipp-trails
+https://www.urbanairmobilitynews.com/air-taxis/chinas-volant-and-indonesias-whitesky-agree-ve25-100-evtol-market-entry-plan-for-indonesia/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-volant-and-indonesias-whitesky-agree-ve25-100-evtol-market-entry-plan-for-indonesia
+https://cnevpost.com/2026/09/22/nissan-launches-updated-n7-sedan-china/
+https://cnevpost.com/2026/09/22/voyah-launches-dream-9-mpv/
