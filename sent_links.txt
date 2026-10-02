@@ -1,7 +1,3 @@
-https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/farnborough-2026-vaeridion-selects-dsd-to-provide-propeller-drive-system-for-the-electric-microliner/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-vaeridion-selects-dsd-to-provide-propeller-drive-system-for-the-electric-microliner
-https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospace-announces-sale-of-valo-evtols-to-sigma-air-mobility/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospace-announces-sale-of-valo-evtols-to-sigma-air-mobility
-https://www.urbanairmobilitynews.com/air-taxis/indias-eplane-company-unveils-full-scale-version-of-its-e200x-evtol/?utm_source=rss&utm_medium=rss&utm_campaign=indias-eplane-company-unveils-full-scale-version-of-its-e200x-evtol
-https://cnevpost.com/2026/07/20/smart-2-ev-global-testing/
 https://www.urbanairmobilitynews.com/air-taxis/anduril-archer-launch-military-civil-hybrid-electric-autonomous-vtol/?utm_source=rss&utm_medium=rss&utm_campaign=anduril-archer-launch-military-civil-hybrid-electric-autonomous-vtol
 https://cnevpost.com/2026/07/20/nio-firefly-launches-first-model-halo-series/
 https://evtolinsights.com/loganair-adds-beta-technologies-alia-ctol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=loganair-adds-beta-technologies-alia-ctol-aircraft
@@ -998,3 +994,7 @@ https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-h
 https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/
 https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/
 https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/
+https://evtolinsights.com/amprius-secures-75-million-u-s-grant-for-drone-battery-production/?utm_source=rss&utm_medium=rss&utm_campaign=amprius-secures-75-million-u-s-grant-for-drone-battery-production
+https://evtolinsights.com/skydrive-and-other-osaka-partners-consider-rooftop-evtol-landing-site-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-and-other-osaka-partners-consider-rooftop-evtol-landing-site-conversions
+https://evtolinsights.com/regent-opens-rhode-island-seaglider-manufacturing-facility/?utm_source=rss&utm_medium=rss&utm_campaign=regent-opens-rhode-island-seaglider-manufacturing-facility
+https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/
