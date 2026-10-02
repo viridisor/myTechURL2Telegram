@@ -1,7 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/anduril-archer-launch-military-civil-hybrid-electric-autonomous-vtol/?utm_source=rss&utm_medium=rss&utm_campaign=anduril-archer-launch-military-civil-hybrid-electric-autonomous-vtol
-https://cnevpost.com/2026/07/20/nio-firefly-launches-first-model-halo-series/
-https://evtolinsights.com/loganair-adds-beta-technologies-alia-ctol-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=loganair-adds-beta-technologies-alia-ctol-aircraft
-https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai/
 https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-eve-air-mobility-progresses-anac-and-easa-certification/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-eve-air-mobility-progresses-anac-and-easa-certification
 https://evtolinsights.com/evolito-submits-type-certificate-application-for-e800-electric-engine-on-electras-el9-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=evolito-submits-type-certificate-application-for-e800-electric-engine-on-electras-el9-aircraft
 https://cnevpost.com/2026/07/21/li-auto-sets-up-chip-company/
@@ -998,3 +994,7 @@ https://evtolinsights.com/amprius-secures-75-million-u-s-grant-for-drone-battery
 https://evtolinsights.com/skydrive-and-other-osaka-partners-consider-rooftop-evtol-landing-site-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-and-other-osaka-partners-consider-rooftop-evtol-landing-site-conversions
 https://evtolinsights.com/regent-opens-rhode-island-seaglider-manufacturing-facility/?utm_source=rss&utm_medium=rss&utm_campaign=regent-opens-rhode-island-seaglider-manufacturing-facility
 https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/
+https://cnevpost.com/2026/10/02/tesla-q3-delivery-byd-bev-sales/
+https://cnevpost.com/2026/10/02/global-ev-battery-market-share-jan-aug-2026/
+https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/
+https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/
