@@ -1,4 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/farnborough-2026-eve-air-mobility-progresses-anac-and-easa-certification/?utm_source=rss&utm_medium=rss&utm_campaign=farnborough-2026-eve-air-mobility-progresses-anac-and-easa-certification
 https://evtolinsights.com/evolito-submits-type-certificate-application-for-e800-electric-engine-on-electras-el9-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=evolito-submits-type-certificate-application-for-e800-electric-engine-on-electras-el9-aircraft
 https://cnevpost.com/2026/07/21/li-auto-sets-up-chip-company/
 https://cnevpost.com/2026/07/21/byd-launches-seal-05-dm-i-mexico-byd-king/
@@ -998,3 +997,4 @@ https://cnevpost.com/2026/10/02/tesla-q3-delivery-byd-bev-sales/
 https://cnevpost.com/2026/10/02/global-ev-battery-market-share-jan-aug-2026/
 https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/
 https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/
+https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/
