@@ -1,9 +1,3 @@
-https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/
-https://cnevpost.com/2026/07/24/byd-unveils-design-sketches-da-han/
-https://evtolinsights.com/fia-2026-urban-air-port-and-airclad-announce-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-urban-air-port-and-airclad-announce-strategic-partnership
-https://evtolinsights.com/fia-2026-md-aircraft-and-st-airborne-systems-advance-electric-airborne-surveillance-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-md-aircraft-and-st-airborne-systems-advance-electric-airborne-surveillance-capabilities
-https://evtolinsights.com/skydrive-partners-with-bangkok-airways-and-thai-firms-to-develop-evtol-operations-in-thailand/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-partners-with-bangkok-airways-and-thai-firms-to-develop-evtol-operations-in-thailand
-https://evtolinsights.com/eve-air-mobility-partners-with-florida-dot-to-advance-evtol-integration-at-suntrax/?utm_source=rss&utm_medium=rss&utm_campaign=eve-air-mobility-partners-with-florida-dot-to-advance-evtol-integration-at-suntrax
 https://cnevpost.com/2026/07/24/buick-opens-orders-electra-l7-bev-china/
 https://cnevpost.com/2026/07/24/momenta-enters-robovan-sector/
 https://cnevpost.com/2026/07/24/xpeng-recalls-x9-china-air-spring-failures/
@@ -998,3 +992,9 @@ https://cnevpost.com/2026/10/13/xpeng-oct-15-debut-pre-sales-mona-l05/
 https://cnevpost.com/2026/10/13/nio-es9-deliveries-sept-2026/
 https://cnevpost.com/2026/10/13/leapmotor-starts-b10-production-spain-a05-european-debut/
 https://cnevpost.com/2026/10/13/xiaomi-auto-sept-2026-deliveries-2/
+https://evtolinsights.com/faa-advances-multi-state-evtol-integration-testing-programme/?utm_source=rss&utm_medium=rss&utm_campaign=faa-advances-multi-state-evtol-integration-testing-programme
+https://evtolinsights.com/zuri-selects-edgeperformance-for-td-2-0-hybrid-electric-engine/?utm_source=rss&utm_medium=rss&utm_campaign=zuri-selects-edgeperformance-for-td-2-0-hybrid-electric-engine
+https://evtolinsights.com/skyports-uses-bvlos-drones-to-survey-humelink-west-construction-project/?utm_source=rss&utm_medium=rss&utm_campaign=skyports-uses-bvlos-drones-to-survey-humelink-west-construction-project
+https://cnevpost.com/2026/10/13/china-nev-market-share-sept-2026-byd-tesla/
+https://cnevpost.com/2026/10/13/china-nev-export-share-sept-2026/
+https://cnevpost.com/2026/10/13/byd-launches-da-han-ev/
