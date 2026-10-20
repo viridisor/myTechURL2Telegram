@@ -1,11 +1,3 @@
-https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/cosmic-aerospace-launches-four-seat-electric-aircraft-designed-under-faa-mosaic-rules/?utm_source=rss&utm_medium=rss&utm_campaign=cosmic-aerospace-launches-four-seat-electric-aircraft-designed-under-faa-mosaic-rules
-https://insideevs.com/news/803262/zoox-robotaxi-pod-cleared-for-paid-rides-nhtsa/
-https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/
-https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/
-https://evtolinsights.com/wisk-and-nasa-simulate-multi-aircraft-autonomous-flight-operations-incontrolled-airspace/?utm_source=rss&utm_medium=rss&utm_campaign=wisk-and-nasa-simulate-multi-aircraft-autonomous-flight-operations-incontrolled-airspace
-https://evtolinsights.com/air-india-skydrive-and-suzuki-sign-mou-forfeasibility-study-of-medical-air-logistics-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=air-india-skydrive-and-suzuki-sign-mou-forfeasibility-study-of-medical-air-logistics-in-india
-https://cnevpost.com/2026/07/31/tesla-weighs-sale-china-business-spacex-merger-wsj/
-https://cnevpost.com/2026/07/31/musk-tesla-china-spinoff-never-in-discussion/
 https://cnevpost.com/2026/07/31/xiaomi-shares-slide-sky-nomad-debut/
 https://www.urbanairmobilitynews.com/air-taxis/air-india-sky-drive-and-suzuki-plan-evtol-based-medical-logistics-service-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=air-india-sky-drive-and-suzuki-plan-evtol-based-medical-logistics-service-in-india
 https://cnevpost.com/2026/07/31/tesla-brings-doubao-ai-cars-china/
@@ -998,3 +990,11 @@ https://www.urbanairmobilitynews.com/air-taxis/uks-skyfly-technologies-closes-us
 https://www.urbanairmobilitynews.com/air-taxis/new-mexico-registers-first-eipp-flight-with-reliable-robotics/?utm_source=rss&utm_medium=rss&utm_campaign=new-mexico-registers-first-eipp-flight-with-reliable-robotics
 https://cnevpost.com/2026/10/20/china-proposes-uniform-rules-automated-driving-lights/
 https://cnevpost.com/2026/10/20/epicland-to-debut-first-model-huawei-catl-battery-swap/
+https://evtolinsights.com/iaaps-and-gkn-aerospace-complete-hydrogen-electric-propulsion-tests/?utm_source=rss&utm_medium=rss&utm_campaign=iaaps-and-gkn-aerospace-complete-hydrogen-electric-propulsion-tests
+https://evtolinsights.com/skyfly-raises-10m-to-advance-axe-electric-aircraft-towards-production/?utm_source=rss&utm_medium=rss&utm_campaign=skyfly-raises-10m-to-advance-axe-electric-aircraft-towards-production
+https://cnevpost.com/2026/10/20/catl-q3-2026-earnings/
+https://cnevpost.com/2026/10/20/byd-launches-second-gen-seagull/
+https://cnevpost.com/2026/10/20/catl-dual-battery-system-heavy-truck-electrification/
+https://cnevpost.com/2026/10/20/li-auto-launches-lianshan-in-house-ev-tech-system/
+https://cnevpost.com/2026/10/20/xpeng-starts-mona-l03-deliveries-europe/
+https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/
