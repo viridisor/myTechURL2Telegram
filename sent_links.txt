@@ -1,5 +1,3 @@
-https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/
-https://www.urbanairmobilitynews.com/vertiports/urbanv-publishes-vertiport-network-plans-for-sao-paulo-and-partnership-details/?utm_source=rss&utm_medium=rss&utm_campaign=urbanv-publishes-vertiport-network-plans-for-sao-paulo-and-partnership-details
 https://www.urbanairmobilitynews.com/training/volocopter-and-koreas-chodang-university-partner-on-evtol-pilot-training/?utm_source=rss&utm_medium=rss&utm_campaign=volocopter-and-koreas-chodang-university-partner-on-evtol-pilot-training
 https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/
 https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/
@@ -998,3 +996,5 @@ https://www.urbanairmobilitynews.com/air-taxis/30770/?utm_source=rss&utm_medium=
 https://www.urbanairmobilitynews.com/air-taxis/averon-aerospace-launches-the-a-001-hybrid-electric-tiltrotor/?utm_source=rss&utm_medium=rss&utm_campaign=averon-aerospace-launches-the-a-001-hybrid-electric-tiltrotor
 https://cnevpost.com/2026/10/23/gwm-launches-2027-tank-500/
 https://cnevpost.com/2026/10/24/vw-anhui-launches-id-unyx-09/
+https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh/
+https://cnevpost.com/2026/10/24/china-15-million-cars-with-noa/
