@@ -1,6 +1,3 @@
-https://www.urbanairmobilitynews.com/batteries/chinas-catl-reports-its-350wh-kg-evtol-battery-has-passed-safety-verification-tests/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-catl-reports-its-350wh-kg-evtol-battery-has-passed-safety-verification-tests
-https://www.urbanairmobilitynews.com/utm/archer-to-acquire-boeings-wisk-skygrid-and-insitu-subsidiaries/?utm_source=rss&utm_medium=rss&utm_campaign=archer-to-acquire-boeings-wisk-skygrid-and-insitu-subsidiaries
-https://www.urbanairmobilitynews.com/insurance-and-finance/vertical-aerospace-announces-new-financial-commitments-from-investors/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-aerospace-announces-new-financial-commitments-from-investors
 https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/
 https://cnevpost.com/2026/08/11/vw-id-era-5s-opens-pre-sales-china/
 https://www.urbanairmobilitynews.com/air-taxis/archers-q2-2006-results-usd1-6-billion-in-cash-and-reserves-operational-activity-spending-up/?utm_source=rss&utm_medium=rss&utm_campaign=archers-q2-2006-results-usd1-6-billion-in-cash-and-reserves-operational-activity-spending-up
@@ -998,3 +995,6 @@ https://cnevpost.com/2026/11/01/byd-oct-2026-sales/
 https://cnevpost.com/2026/11/01/geely-oct-2026-sales/
 https://cnevpost.com/2026/11/01/chery-oct-2026-sales/
 https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/
+https://cnevpost.com/2026/11/02/global-ev-battery-market-share-in-jan-sept-2026/
+https://cnevpost.com/2026/11/02/li-auto-mega-faces-samsung-oled-screen-shortage/
+https://cnevpost.com/2026/11/02/chinese-automakers-beijing-talks-eu-hybrid-export-quotas/
