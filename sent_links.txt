@@ -1,12 +1,3 @@
-https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/heart-aerospace-announces-first-flight-of-its-electric-x1-airliner/?utm_source=rss&utm_medium=rss&utm_campaign=heart-aerospace-announces-first-flight-of-its-electric-x1-airliner
-https://cnevpost.com/2026/08/13/byd-qin-max-goes-on-sale-china/
-https://evtolinsights.com/michigan-awards-2m-to-five-advanced-air-mobility-projects/?utm_source=rss&utm_medium=rss&utm_campaign=michigan-awards-2m-to-five-advanced-air-mobility-projects
-https://insideevs.com/news/789842/lucid-lunar-tesla-cybercab-style-robotaxi/
-https://cnevpost.com/2026/08/13/geely-galaxy-tt-pre-sales/
-https://www.urbanairmobilitynews.com/air-taxis/vertical-provides-latest-financial-and-business-update/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-provides-latest-financial-and-business-update
-https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/
-https://cnevpost.com/2026/08/14/pony-ai-uber-2000-robotaxis-europe/
-https://cnevpost.com/2026/08/14/li-auto-l6-tops-400000-cumulative-deliveries/
 https://cnevpost.com/2026/08/14/geely-farizon-1st-overseas-plant-operations-indonesia/
 https://evtolinsights.com/vini-plans-new-air-travel-route-between-karlsruhe-and-berlin-airports/?utm_source=rss&utm_medium=rss&utm_campaign=vini-plans-new-air-travel-route-between-karlsruhe-and-berlin-airports
 https://evtolinsights.com/heart-aerospace-completes-first-flight-of-x1-the-largest-battery-electric-aircraft-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=heart-aerospace-completes-first-flight-of-x1-the-largest-battery-electric-aircraft-to-date
@@ -998,3 +989,12 @@ https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relatio
 https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/
 https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/
 https://cnevpost.com/2026/11/05/zeekr-starts-pre-sales-2027-7x/
+https://evtolinsights.com/jobys-us-air-force-autonomy-contracts-reach-nearly-37m/?utm_source=rss&utm_medium=rss&utm_campaign=jobys-us-air-force-autonomy-contracts-reach-nearly-37m
+https://evtolinsights.com/eve-and-flybis-sign-binding-agreement-for-up-to-12-evtols-in-southern-brazil/?utm_source=rss&utm_medium=rss&utm_campaign=eve-and-flybis-sign-binding-agreement-for-up-to-12-evtols-in-southern-brazil
+https://evtolinsights.com/galaxy-1-and-viasat-move-uav-connectivity-platform-into-commercial-production/?utm_source=rss&utm_medium=rss&utm_campaign=galaxy-1-and-viasat-move-uav-connectivity-platform-into-commercial-production
+https://evtolinsights.com/eight-weeks-left-to-secure-early-bird-entry-for-evtol-insights-global-aam-awards-2027/?utm_source=rss&utm_medium=rss&utm_campaign=eight-weeks-left-to-secure-early-bird-entry-for-evtol-insights-global-aam-awards-2027
+https://www.urbanairmobilitynews.com/air-taxis/autoflight-demonstrates-five-evtol-autonomous-formation-flying/?utm_source=rss&utm_medium=rss&utm_campaign=autoflight-demonstrates-five-evtol-autonomous-formation-flying
+https://www.urbanairmobilitynews.com/fixed-wing-low-zero-emissions/vaeridion-announces-eur-124-million-investment-to-advance-electric-microliner-development/?utm_source=rss&utm_medium=rss&utm_campaign=vaeridion-announces-eur-124-million-investment-to-advance-electric-microliner-development
+https://www.urbanairmobilitynews.com/air-taxis/joby-publishes-q3-operational-financial-update-certification-progress-and-usd2-2-billion-in-cash/?utm_source=rss&utm_medium=rss&utm_campaign=joby-publishes-q3-operational-financial-update-certification-progress-and-usd2-2-billion-in-cash
+https://cnevpost.com/2026/11/05/xpeng-begins-mona-l05-deliveries-targets-10000-1st-month/
+https://cnevpost.com/2026/11/05/catl-byd-gain-ev-battery-share-outside-china/
