@@ -1,7 +1,3 @@
-https://insideevs.com/news/798170/pepsico-gatik-autonomous-delivery-trucks/
-https://cnevpost.com/2026/08/19/buick-launches-electra-l7-bev-china/
-https://cnevpost.com/2026/08/19/china-nev-retail-sales-first-16-days-aug-2026/
-https://cnevpost.com/2026/08/19/seres-swings-to-loss-h1-2026/
 https://cnevpost.com/2026/08/19/chery-aimoga-prepares-ipo/
 https://evtolinsights.com/fia-2026-matt-hill-of-gotonomi-on-operationalizing-aam-scaling-digital-infrastructure-comms/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-matt-hill-of-gotonomi-on-operationalizing-aam-scaling-digital-infrastructure-comms
 https://evtolinsights.com/fia-2026-jeff-rex-of-l2-aviation-on-why-connectivity-and-autonomy-are-key-to-aams-future/?utm_source=rss&utm_medium=rss&utm_campaign=fia-2026-jeff-rex-of-l2-aviation-on-why-connectivity-and-autonomy-are-key-to-aams-future
@@ -998,3 +994,7 @@ https://www.urbanairmobilitynews.com/uam-infrastructure/future-flight-global-ann
 https://www.urbanairmobilitynews.com/defence/electra-defense-reports-further-development-contract-award-from-us-air-forces-afrl/?utm_source=rss&utm_medium=rss&utm_campaign=electra-defense-reports-further-development-contract-award-from-us-air-forces-afrl
 https://www.urbanairmobilitynews.com/logistics/lodd-autonomous-links-with-saudi-e-commerce-platform-noon-for-uav-cargo-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=lodd-autonomous-links-with-saudi-e-commerce-platform-noon-for-uav-cargo-logistics
 https://www.urbanairmobilitynews.com/logistics/airos-jaunt-and-vertiko-mobilite-plan-autonomous-cargo-logistics-corridor-in-canada/?utm_source=rss&utm_medium=rss&utm_campaign=airos-jaunt-and-vertiko-mobilite-plan-autonomous-cargo-logistics-corridor-in-canada
+https://cnevpost.com/2026/11/10/gwm-wey-opens-pre-sales-2nd-gen-lanshan/
+https://cnevpost.com/2026/11/10/li-auto-updated-i6-orders-estimated-above-50000/
+https://cnevpost.com/2026/11/10/catl-swap-network-help-sodium-ion-adoption/
+https://cnevpost.com/2026/11/10/li-auto-q3-2026-results-nov-25/
