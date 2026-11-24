@@ -1,11 +1,3 @@
-https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/
-https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/
-https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/
-https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/
-https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7/
-https://cnevpost.com/2026/09/02/geely-aug-2026-sales/
-https://cnevpost.com/2026/09/02/gwm-aug-2026-sales/
-https://cnevpost.com/2026/09/02/im-motors-pre-sales-updated-ls6-sept-10/
 https://evtolinsights.com/barracuda-networks-partners-with-airspeeder-team-australia/?utm_source=rss&utm_medium=rss&utm_campaign=barracuda-networks-partners-with-airspeeder-team-australia
 https://www.urbanairmobilitynews.com/air-taxis/30356/?utm_source=rss&utm_medium=rss&utm_campaign=30356
 https://cnevpost.com/2026/09/02/chery-auto-aug-2026-sales/
@@ -998,3 +990,11 @@ https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospace-completes-cons
 https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/
 https://cnevpost.com/2026/11/24/byd-fang-cheng-bao-shark-launch-china-dec-2/
 https://cnevpost.com/2026/11/24/nio-day-2026-dec-19-unveil-new-et5-touring/
+https://evtolinsights.com/aridge-a868-completes-first-full-tiltrotor-transition-flight/?utm_source=rss&utm_medium=rss&utm_campaign=aridge-a868-completes-first-full-tiltrotor-transition-flight
+https://insideevs.com/news/806787/toyota-autonomous-driving-system-tesla-fsd/
+https://insideevs.com/news/816506/lucid-gravity-robotaxis-driverless-testing/
+https://cnevpost.com/2026/11/24/eu-import-quotas-hybrids-dec-china-urges-adherence-consensus/
+https://cnevpost.com/2026/11/24/byd-launches-3rd-gen-tang-electric-suv/
+https://cnevpost.com/2026/11/24/geely-galaxy-starts-pre-sales-m8/
+https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/
+https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/
