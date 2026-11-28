@@ -1,8 +1,3 @@
-https://www.urbanairmobilitynews.com/air-taxis/archer-announces-no-roads-evtol-flight-tour-of-northern-california/?utm_source=rss&utm_medium=rss&utm_campaign=archer-announces-no-roads-evtol-flight-tour-of-northern-california
-https://www.urbanairmobilitynews.com/new-city-projects/skyports-infrastructure-and-japans-oita-prefecture-plan-a-network-of-evtol-services/?utm_source=rss&utm_medium=rss&utm_campaign=skyports-infrastructure-and-japans-oita-prefecture-plan-a-network-of-evtol-services
-https://www.urbanairmobilitynews.com/training/easa-produces-standard-for-vtol-handling-quality-simulation/?utm_source=rss&utm_medium=rss&utm_campaign=easa-produces-standard-for-vtol-handling-quality-simulation
-https://cnevpost.com/2026/09/03/chery-jlr-launches-freelander-8-china/
-https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/
 https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/
 https://evtolinsights.com/skyports-signs-mou-to-advise-japans-oita-prefecture-on-future-aam-services/?utm_source=rss&utm_medium=rss&utm_campaign=skyports-signs-mou-to-advise-japans-oita-prefecture-on-future-aam-services
 https://evtolinsights.com/archer-launches-no-roads-flight-tour-ahead-of-la28-and-u-s-evtol-pilot-program/?utm_source=rss&utm_medium=rss&utm_campaign=archer-launches-no-roads-flight-tour-ahead-of-la28-and-u-s-evtol-pilot-program
@@ -998,3 +993,8 @@ https://cnevpost.com/2026/11/27/byd-unveils-ocean-lineup-mpv-whale/
 https://cnevpost.com/2026/11/27/zeekr-launches-2027-7x/
 https://cnevpost.com/2026/11/27/leapmotor-updates-lafa-5/
 https://cnevpost.com/2026/11/27/saic-mg-to-halt-ice-vehicle-production-chinese-mainland-2027/
+https://evtolinsights.com/skydrive-and-partners-explore-integrated-support-platform-for-japanese-evtol-operations/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-and-partners-explore-integrated-support-platform-for-japanese-evtol-operations
+https://evtolinsights.com/everdrone-and-avincis-test-drone-detection-system-for-air-ambulance-helicopters/?utm_source=rss&utm_medium=rss&utm_campaign=everdrone-and-avincis-test-drone-detection-system-for-air-ambulance-helicopters
+https://evtolinsights.com/skydrive-partners-with-helikorea-and-verty-to-develop-south-korean-evtol-operations/?utm_source=rss&utm_medium=rss&utm_campaign=skydrive-partners-with-helikorea-and-verty-to-develop-south-korean-evtol-operations
+https://evtolinsights.com/interview-how-wisk-is-pacing-investment-for-an-autonomous-aviation-market/?utm_source=rss&utm_medium=rss&utm_campaign=interview-how-wisk-is-pacing-investment-for-an-autonomous-aviation-market
+https://evtolinsights.com/sora-aviation-opens-battery-thermal-runaway-test-facility-in-filton/?utm_source=rss&utm_medium=rss&utm_campaign=sora-aviation-opens-battery-thermal-runaway-test-facility-in-filton
